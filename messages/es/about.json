@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "title": "Acerca de Nuestra Iglesia",
+    "subtitle": "Conoce nuestra historia, misión y las personas que hacen especial a nuestra comunidad",
+    "imageAlt": "Edificio de la iglesia"
+  },
+  "story": {
+    "title": "Nuestra Historia",
+    "paragraph1": "La Iglesia Presbiteriana  San Juan fue fundada en 1985 por un pequeño grupo de familias que compartían la visión de una iglesia que fuera acogedora para todos y profundamente arraigada en las Escrituras.",
+    "paragraph2": "Lo que comenzó como una pequeña reunión en una sala de estar se ha convertido en una vibrante comunidad de creyentes dedicados a servir a Dios y a nuestros vecinos. A lo largo de los años, hemos sido bendecidos al ver innumerables vidas transformadas por la gracia de Dios.",
+    "paragraph3": "En 2005, nos mudamos a nuestra ubicación actual, lo que nos ha permitido expandir nuestros ministerios y servir mejor a la comunidad. A lo largo de nuestro crecimiento, hemos permanecido comprometidos con nuestros principios fundacionales de adoración auténtica, enseñanza bíblica y alcance compasivo.",
+    "imageAlt": "Historia de la iglesia"
+  },
+  "mission": {
+    "title": "Nuestra Misión y Valores",
+    "subtitle": "Nos guiamos por una misión clara y valores fundamentales que dan forma a todo lo que hacemos",
+    "missionCard": {
+      "title": "Nuestra Misión",
+      "description": "- Glorificar a Dios formando discípulos que amen a Dios, crezcan en comunidad y sirvan al mundo.",
+      "description1": "- Salvar almas y hacer discípulos."
+    },
+    "visionCard": {
+      "title": "Nuestra Visión",
+      "description": "Ser una iglesia donde personas de todos los orígenes puedan encontrar el amor de Dios y estar equipadas para hacer una diferencia en sus comunidades."
+    },
+    "valuesCard": {
+      "title": "Nuestros Valores",
+      "description": "Enseñanza bíblica, adoración auténtica, comunidad significativa, servicio compasivo y discipulado intencional."
+    }
+  },
+  "base": {
+    "stitle": "Nuestras Bases",
+    "title": "Cursos de Vida",
+    "subtitle": "Nuestra iglesia se fundamenta en <highlight>tres pilares</highlight> esenciales: El <highlight>Culto Unido</highlight>, donde adoramos juntos como un solo cuerpo; La <highlight>Casa Iglesia</highlight>, donde vivimos la fe en comunidad; Y el <highlight>Estudio Bíblico</highlight>, donde crecemos en la Palabra con una enseñanza práctica y transformadora.",
+    "main": "Culto Unido",
+    "left": "Casa Iglesia",
+    "right": "Estudio Bíblico",
+    "topText": "Reunión general de toda la iglesia. Se realiza los domingos como parte vital de la vida cristiana - Hechos 12:5, 13:3.",
+    "leftText": "Comunidad de creyentes que se reúne regularmente (6 a 12 personas) en el hogar de un líder laico. Cumple todas las funciones de una iglesia local - Hechos 2:42-47.",
+    "course1": "Vida Vital",
+    "course2": "Nueva Vida",
+    "course3": "Vida de Convicción",
+    "course4": "Vida Piadosa",
+    "course5": "Vida Experiencia con Dios",
+    "duration1": "13 Semanas",
+    "duration2": "13 Semanas",
+    "duration3": "06 Semanas",
+    "duration4": "13 Semanas",
+    "duration5": "13 Semanas"
+  },
+  "leadership": {
+    "title": "Nuestro Equipo de Liderazgo",
+    "subtitle": "Conoce a las personas dedicadas que guían nuestra comunidad eclesial",
+    "leaders": {
+      "leader1": {
+        "name": "Alfredo Villalta",
+        "role": "Pastor Principal",
+        "bio": "El pastor Alfredo Villalta fundador de la congregación. Tiene una pasión por enseñar la Palabra de Dios y ayudar a las personas a crecer en su fe."
+      },
+      "leader2": {
+        "name": "Violeta Hong Jong Ae",
+        "role": "Pastora Principal",
+        "bio": "La pastora Violeta Hong ha dedicado más de 15 años al servicio de nuestra iglesia, con un corazón lleno de compasión, guía a la congregación en su crecimiento espiritual y en su relación con el Señor."
+      },
+      "leader3": {
+        "name": "Miguel Morales",
+        "role": "Secretaria",
+        "bio": "Miguel aporta energía y sabiduría a nuestro ministerio juvenil. Está dedicado a ayudar a los jóvenes a construir una base sólida en Cristo."
+      },
+      "leader4": {
+        "name": "David Gómez",
+        "role": "Anciano de la congregación",
+        "bio": "David ha servido como anciano durante 8 años. Su sabiduría y discernimiento han sido invaluables para el liderazgo de nuestra iglesia."
+      },
+      "leader5": {
+        "name": "Rebeca Martínez",
+        "role": "Anciana de la congregación",
+        "bio": "Rebeca tiene un corazón para los niños y las familias. Crea programas atractivos que ayudan a los niños a aprender sobre el amor de Dios."
+      },
+      "leader6": {
+        "name": "Jaime Torres",
+        "role": "Coordinador de Alcance",
+        "bio": "Jaime coordina nuestras iniciativas de servicio comunitario. Es apasionado por mostrar el amor de Dios a través del servicio práctico."
+      }
+    }
+  },
+  "beliefs": {
+    "title": "Nuestras Creencias",
+    "introduction": "En la Iglesia Presbiteriana  San Juan, creemos en la autoridad de las Escrituras y la centralidad del mensaje del evangelio. Nuestras creencias fundamentales incluyen:",
+    "items": {
+      "subtitle1": "La biblia",
+      "item1": "La Biblia es la Palabra de Dios inspirada e infalible.",
+      "subtitle2": "Dios",
+      "item2": "Hay un solo Dios, que existe eternamente en tres personas: Padre, Hijo y Espíritu Santo.",
+      "subtitle3": "Jesucristo",
+      "item3": "Jesucristo es completamente Dios y completamente hombre, nacido de una virgen, y vivió una vida sin pecado.",
+      "subtitle4": "Salvación",
+      "item4": "La salvación es por gracia mediante la fe en Jesucristo solamente.",
+      "subtitle5": "Espíritu Santo",
+      "item5": "Consolador enviado por Dios para guiar, fortalecer y enseñar a los creyentes.",
+      "subtitle6": "La iglesia",
+      "item6": "No es solo un edificio, sino la comunidad de creyentes en Cristo, donde cada persona tiene un papel y es guiada por el Espíritu Santo."
+    },
+    "conclusion": "Estas creencias guían nuestra enseñanza, adoración y ministerio mientras buscamos honrar a Dios y servir a nuestra comunidad."
+  }
+}  

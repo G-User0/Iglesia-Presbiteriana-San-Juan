@@ -1,0 +1,128 @@
+{
+    "hero": {
+      "title": "Servicios y Sermones",
+      "subtitle": "Únete a nosotros para adoración, oración y enseñanza bíblica",
+      "imageAlt": "Servicio de la iglesia"
+    },
+    "serviceTimes": {
+      "title": "Adora con Nosotros",
+      "subtitle": "Ofrecemos múltiples servicios para adaptarnos a tu horario. ¡Todos son bienvenidos!",
+      "sunday": {
+        "title": "Domingo por la Mañana",
+        "time": "07:30 y 11:30",
+        "description": "Adoración tradicional con coro y sermón completo"
+      },
+      "MidMorning": {
+        "title": "Domingo a media Mañana",
+        "time": "09:30",
+        "description": "Escuela dominical para niños de -- a -- años"
+      },
+      "evening": {
+        "title": "Domingo por la Tarde",
+        "time": "15:00",
+        "description": "Culto de adolescentes con alavanzas y enseñanza"
+      },
+      "wednesday": {
+        "title": "Miércoles por la Noche",
+        "time": "20:00",
+        "description": "Estudio bíblico y reunión de oración"
+      },
+      "week": {
+        "title": "De Martes a Viernes",
+        "time": "05:30",
+        "satit": "Sabado - 06:30",
+        "description": "Reunión de oración"
+      }
+    },
+    "location": {
+      "address": "Av. Miguel iglesias, C. Miguel grau, Lima, Perú"
+    },
+    "buttons": {
+      "planVisit": "Planifica tu Visita",
+      "learnMore": "Conoce Más Sobre Nosotros"
+    },
+    "whatToExpect": {
+      "title": "¿Qué Esperar?",
+      "imageAlt": "Servicio de adoración de la iglesia",
+      "paragraph1": "Cuando visites la Iglesia Prebiteriana San Juan, serás recibido en un ambiente amigable y casual donde puedes venir tal como eres.",
+      "paragraph2": "Nuestros servicios típicamente duran alrededor de 1 hora e incluyen:",
+      "list": {
+        "item1": "Música de adoración atractiva que combina estilos contemporáneos y tradicionales",
+        "item2": "Enseñanza práctica basada en la Biblia que se aplica a la vida cotidiana",
+        "item3": "Oportunidades para oración y reflexión",
+        "item4": "Programas para niños y jóvenes durante los horarios de servicio"
+      },
+      "paragraph3": "Ya sea que estés explorando la fe por primera vez o hayas sido cristiano por años, tenemos un lugar para ti."
+    },
+    "latestSermons": {
+      "title": "Últimos Sermones",
+      "subtitle": "¿Te perdiste un servicio? Mira o escucha nuestros mensajes recientes",
+      "buttons": {
+        "watch": "Ver",
+        "listen": "Escuchar",
+        "notes": "Notas",
+        "viewAll": "Ver Todos los Sermones"
+      },
+      "sermons": {
+        "sermon1": {
+          "title": "Caminando en Fe",
+          "speaker": "Pastor Juan Pérez",
+          "date": "10 de marzo, 2025",
+          "series": "Fe que Obra"
+        },
+        "sermon2": {
+          "title": "El Poder de la Oración",
+          "speaker": "Pastora Sara Rodríguez",
+          "date": "3 de marzo, 2025",
+          "series": "Disciplinas Espirituales"
+        },
+        "sermon3": {
+          "title": "Encontrando Paz en el Caos",
+          "speaker": "Pastor Miguel Morales",
+          "date": "24 de febrero, 2025",
+          "series": "Paz Mental"
+        },
+        "sermon4": {
+          "title": "Viviendo con Propósito",
+          "speaker": "Pastor Juan Pérez",
+          "date": "17 de febrero, 2025",
+          "series": "Grandes Preguntas de la Vida"
+        },
+        "sermon5": {
+          "title": "El Corazón de la Adoración",
+          "speaker": "Pastora Sara Rodríguez",
+          "date": "10 de febrero, 2025",
+          "series": "Serie de Adoración"
+        },
+        "sermon6": {
+          "title": "La Importancia de la Comunidad",
+          "speaker": "Pastor Miguel Morales",
+          "date": "3 de febrero, 2025",
+          "series": "Mejor Juntos"
+        }
+      }
+    },
+    "specialServices": {
+      "title": "Servicios Especiales",
+      "subtitle": "Además de nuestros servicios regulares, ofrecemos reuniones especiales a lo largo del año",
+      "services": {
+        "service1": {
+          "title": "Servicios de Días Festivos",
+          "description": "Servicios especiales para Pascua, Navidad y otras festividades significativas. Estos servicios a menudo incluyen música especial, drama y tradiciones significativas."
+        },
+        "service2": {
+          "title": "Servicios de Bautismo",
+          "description": "Servicios de bautismo trimestrales donde nuevos creyentes declaran públicamente su fe. Estas celebraciones gozosas están abiertas a todos los que deseen presenciar este importante paso."
+        },
+        "service3": {
+          "title": "Servicios de Comunión",
+          "description": "Servicios de comunión mensuales donde recordamos el sacrificio de Cristo. Estos servicios reflexivos incluyen adoración, lectura de las Escrituras y participación en la Cena del Señor."
+        },
+        "service4": {
+          "title": "Servicios de Oración y Sanidad",
+          "description": "Servicios especiales dedicados a la oración por sanidad y renovación espiritual. Estas reuniones íntimas proporcionan espacio para oración extendida y ministerio."
+        }
+      }
+    }
+  }
+  

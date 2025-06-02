@@ -1,0 +1,228 @@
+{
+    "hero": {
+      "title": "Sermones y Enseñanzas",
+      "subtitle": "Mira, escucha y crece a través de la enseñanza bíblica",
+      "imageAlt": "Sermón de la iglesia",
+      "date": "3 de marzo, 2025",
+      "cta": "Ver Sermones"
+    },
+    "search": {
+      "placeholder": "Buscar sermones...",
+      "filterButton": "Filtrar",
+      "filters": {
+        "series": "Series",
+        "speaker": "Predicador",
+        "date": "Fecha"
+      },
+      "options": {
+        "allSeries": "Todas las Series",
+        "faithThatWorks": "Fe que Obra",
+        "spiritualDisciplines": "Disciplinas Espirituales",
+        "peaceOfMind": "Paz Mental",
+        "lifesBigQuestions": "Grandes Preguntas de la Vida",
+        "allSpeakers": "Todos los Predicadores",
+        "pastorAlfredo": "Pastor Alfredo Villalta",
+        "pastorVioleta": "Pastora Violeta Hong Jong Ae",
+        "pastorSarah": "Pastora Sara Rodríguez",
+        "pastorMichael": "Pastor Miguel Morales",
+        "allDates": "Todas las Fechas"
+      }
+    },
+    "featured": {
+      "title": "Último Mensaje",
+      "subtitle": "Mira nuestro sermón más reciente del domingo pasado",
+      "imageAlt": "Sermón destacado",
+      "sermon": {
+        "title": "Caminando en Fe: Confiando en Dios en Tiempos de Incertidumbre",
+        "series": "Serie Fe que Obra",
+        "speaker": "Pastor Juan Pérez",
+        "date": "10 de marzo, 2025",
+        "scripture": "Santiago 1:2-8",
+        "description": "En este poderoso mensaje, el Pastor Juan explora cómo podemos mantener nuestra fe durante las temporadas más desafiantes de la vida. Basándose en el libro de Santiago, comparte sabiduría práctica para confiar en Dios cuando el camino por delante parece incierto."
+      },
+      "buttons": {
+        "share": "compartir",
+        "watchNow": "Ver Ahora"
+      }
+    },
+    "archive": {
+      "title": "Archivo de Sermones",
+      "subtitle": "Explora nuestra colección de mensajes pasados",
+      "buttons": {
+        "watch": "Ver",
+        "listen": "Escuchar",
+        "notes": "Notas"
+      },
+      "sermons": {
+        "sermon1": {
+          "image": "https://youtu.be/wIKQ8tt8QlE?",
+          "title": "El Secreto de la Victoria",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "3 de marzo, 2025",
+          "series": "Disciplinas Espirituales",
+          "scripture": "Mateo 6:5-15",
+          "notes": [
+            "Recuerda orar cada día.",
+            "La oración transforma el corazón."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon2": {
+          "image": "https://youtu.be/CKc7jE3PpH4?",
+          "title": "Jesucristo es el Señor de la Iglesia",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "24 de febrero, 2025",
+          "series": "Paz Mental",
+          "scripture": "Filipenses 4:4-9",
+          "notes": [
+            "La paz de Dios sobrepasa todo entendimiento.",
+            "Practica la gratitud diariamente."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon3": {
+          "image": "https://youtu.be/r0U7xCDkWxA?",
+          "title": "La Vida que Transforma el Agua en ...",
+          "speaker": "Pastor Timoteo Kim",
+          "date": "17 de febrero, 2025",
+          "series": "Grandes Preguntas de la Vida",
+          "scripture": "Efesios 2:10",
+          "notes": [
+            "Dios tiene un plan para cada uno de nosotros.",
+            "Descubre tu propósito a través del servicio."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon4": {
+          "image": "https://youtu.be/xlpjYhLu9Eo?",
+          "title": "Más Allá de los 21 Días de Ayuno",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "10 de febrero, 2025",
+          "series": "Serie de Adoración",
+          "scripture": "Juan 4:23-24",
+          "notes": [
+            "La adoración es un estilo de vida.",
+            "Adora en espíritu y en verdad."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon5": {
+          "image": "https://youtu.be/5HAJZixiabc?",
+          "title": "Las Prioridades a Prueba",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "3 de febrero, 2025",
+          "series": "Mejor Juntos",
+          "scripture": "Hechos 2:42-47",
+          "notes": [
+            "La comunidad es esencial para el crecimiento espiritual.",
+            "Conéctate con otros creyentes."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon6": {
+          "image": "https://youtu.be/pPhiVKPa4gM?",
+          "title": "Una vez Vuelta, Confirma a tu Hermano",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "27 de enero, 2025",
+          "series": "Guerra Espiritual",
+          "scripture": "1 Corintios 10:13",
+          "notes": [
+            "La tentación es parte de la vida cristiana.",
+            "Confía en la promesa de Dios para escapar."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon7": {
+          "image": "https://youtu.be/3Way0h9emVc?",
+          "title": "Preparaté para la Conquista",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "20 de enero, 2025",
+          "series": "Fe Cotidiana",
+          "scripture": "2 Corintios 12:9",
+          "notes": [
+            "La gracia de Dios es suficiente.",
+            "Confía en Su poder en tu debilidad."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon8": {
+          "image": "https://youtu.be/fQydBIbcafM?",
+          "title": "La Navidad que Estamos Esperando",
+          "speaker": "Pastora Violeta Hong Jong Ae",
+          "date": "13 de enero, 2025",
+          "series": "Libertad Financiera",
+          "scripture": "Mateo 25:14-30",
+          "notes": [
+            "Dios nos llama a ser buenos administradores.",
+            "Invierte en el Reino de Dios."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        },
+        "sermon9": {
+          "image": "https://youtu.be/CCLaHNBEIYg?",
+          "title": "Salvación Para Los Pecadores",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "6 de enero, 2025",
+          "series": "Amor en Acción",
+          "scripture": "Lucas 10:25-37",
+          "notes": [
+            "El amor al prójimo es un mandamiento.",
+            "Actúa con compasión y servicio."
+          ],
+          "noNotes": "No hay notas para este mensaje."
+        }
+      }
+    },
+    "pagination": {
+      "previous": "Página anterior",
+      "next": "Página siguiente"
+    },
+    "series": {
+      "title": "Series de Sermones",
+      "subtitle": "Explora nuestras series de enseñanza sobre varios temas",
+      "items": {
+        "item1": {
+          "title": "Fe que Obra",
+          "count": "6 mensajes"
+        },
+        "item2": {
+          "title": "Disciplinas Espirituales",
+          "count": "8 mensajes"
+        },
+        "item3": {
+          "title": "Paz Mental",
+          "count": "5 mensajes"
+        },
+        "item4": {
+          "title": "Grandes Preguntas de la Vida",
+          "count": "7 mensajes"
+        },
+        "item5": {
+          "title": "Mejor Juntos",
+          "count": "4 mensajes"
+        },
+        "item6": {
+          "title": "Guerra Espiritual",
+          "count": "6 mensajes"
+        },
+        "item7": {
+          "title": "Libertad Financiera",
+          "count": "5 mensajes"
+        },
+        "item8": {
+          "title": "Amor en Acción",
+          "count": "4 mensajes"
+        }
+      }
+    },
+    "subscribe": {
+      "title": "Nunca te Pierdas un Mensaje",
+      "subtitle": "Suscríbete a nuestro canal de YouTube para recibir nuevos sermones automáticamente",
+      "platforms": {
+        "youtube": "YouTube",
+        "applePodcasts": "Apple Podcasts",
+        "spotify": "Spotify"
+      }
+    }
+  }
+  

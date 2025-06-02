@@ -1,0 +1,136 @@
+{
+  "hero": {
+    "title": "St. John's Presbyterian Church",
+    "subtitle": "We are a church that exists to save souls and make disciples",
+    "join": "Join Us",
+    "latestSermon": "Wiew Latest Sermon",
+    "weeklyVerse": "Weekly Verse"
+  },
+  "welcome": {
+    "title": "Welcome to our community",
+    "subtitle": "A place where you'll find faith, hope, and love in community",
+    "upcomingEvents": {
+      "title": "Upcoming Events",
+      "event1": {
+        "title": "Sunday Services",
+        "date0": "07:30 & 11:30 (Main Services)",
+        "date1": "09:30 (Sunday School)",
+        "date2": "15:00 (Teenage service)"
+      },
+      "event2": {
+        "title": "Prayer service",
+        "date": "Wednesday: 20:00"
+      },
+      "event3": {
+        "title": "Prayer Time",
+        "date": "Mon - Fri: 05:00 & Sat: 06:30"
+      },
+      "viewAll": "View how to attend"
+    },
+    "latestSermon": {
+      "title": "Latest Sermon",
+      "sermon1": {
+        "title": "Walking in Faith",
+        "pastor": "Pastor John Smith"
+      },
+      "sermon2": {
+        "title": "The Power of Prayer",
+        "pastor": "Pastor Sarah Johnson"
+      },
+      "sermon3": {
+        "title": "Finding Peace in Chaos",
+        "pastor": "Pastor Michael Brown"
+      },
+      "viewAll": "View All Sermons"
+    },
+    "getInvolvedCh": {
+      "title": "Church House",
+      "description": "Church houses are small groups where you can grow in your faith and build meaningful relationships. Join us in one of our church houses.",
+      "ministry1": "Arequipa Church House",
+      "ministry2": "Mexico Church House",
+      "ministry3": "Panama Church House",
+      "viewAll": "View All Church Houses"
+    },
+    "getInvolved": {
+      "title": "Get Involved",
+      "description": "There are many ways to serve and connect with our church community. Find your place in one of our ministries.",
+      "ministry1": "Youth Ministry",
+      "ministry2": "Worship Team",
+      "ministry3": "Community Outreach",
+      "viewAll": "View All Ministries"
+    }
+  },
+    "testimonials": {
+    "title": "Testimonials from our community",
+    "subtitle": "Stories of faith and transformation from our members",
+    "testimonial1": {
+      "name": "Mary Garcia",
+      "since": "Member since 2015",
+      "text": "This church has transformed my life. I have found a true family in Christ and have grown spiritually like never before."
+    },
+    "testimonial2": {
+      "name": "Carlos Rodriguez",
+      "since": "Member since 2018",
+      "text": "The sermons are deep and relevant to my daily life. I feel renewed every Sunday after the service."
+    },
+    "testimonial3": {
+      "name": "Anna Martinez",
+      "since": "Member since 2010",
+      "text": "The youth ministry has been a blessing for my children. They have grown in their faith and made friendships that will last a lifetime."
+    },
+    "testimonial4": {
+      "name": "Joseph Hernandez",
+      "since": "Member since 2019",
+      "text": "When I moved to the city, this church welcomed me with open arms. I have never felt alone since then."
+    },
+    "testimonial5": {
+      "name": "Laura Diaz",
+      "since": "Member since 2016",
+      "text": "The small groups have been fundamental to my spiritual growth. I have learned so much from my brothers and sisters in Christ."
+    },
+    "testimonial6": {
+      "name": "Robert Sanchez",
+      "since": "Member since 2014",
+      "text": "The worship team creates an environment where I can truly connect with God. Every Sunday is a powerful experience."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to serve you and answer your questions",
+    "visitUs": {
+      "title": "Visit Us",
+      "address": {
+        "label": "Address",
+        "value": "Av. Miguel iglesias - C. Miguel grau - Lima"
+      },
+      "serviceHours": {
+        "label": "Service Hours",
+        "week": "Tue - Fri: 05:00 (Prayer)",
+        "week1": "Saturday: 06:30 (Prayer)",
+        "sunday": "Sundays: 07:30 & 11:30",
+        "wednesday": "Wednesdays: 20:00 (Prayer service)"
+      },
+      "email": {
+        "label": "Contact Us",
+        "value": "contact@psjchurch.org"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+51 923 456 789"
+      },
+      "contactButton": "Contact"
+    },
+    "sendMessage": {
+      "title": "Send us a message",
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@email.com",
+      "message": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "sendButton": "Send Message",
+      "successMessage": "Message sent successfully. We'll be in touch soon."
+    }
+  }
+}
+  

@@ -1,0 +1,46 @@
+{
+    "navbar": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "services": "Servicios",
+      "sermons": "Sermones",
+      "chouse": "Casa Iglesia",
+      "events": "Eventos",
+      "ministries": "Ministerios",
+      "menu": "menu",
+      "contact": "Contacto"
+    },
+    "footer": {
+      "titlepage": "Iglesia Presbiteriana San Juan",
+      "description": "Un lugar de fe, esperanza y amor donde todos son bienvenidos.",
+      "quickLinks": "Enlaces Rápidos",
+      "ministries": "Ministerios",
+      "contactUs": "Contáctanos",
+      "events": "Eventos",
+      "give": "Donar",
+      "home": "Inicio",
+      "about": "Acerca de",
+      "services": "Servicios",
+      "sermons": "Sermones",
+      "contact": "Contacto",
+      "childrenMinistry": "Ministerio Infantil",
+      "youthMinistry": "Ministerio Juvenil",
+      "worshipTeam": "Equipo de Adoración",
+      "communityOutreach": "Alcance Comunitario",
+      "prayerMinistry": "Ministerio de Oración",
+      "address": "Av. Miguel iglesias - C. Miguel grau",
+      "phone": "+51 946 284 650",
+      "email": "contacto@iglesiapsj.org",
+      "copyright": "© 2025 Iglesia Presbiteriana San Juan. Todos los derechos reservados.",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio"
+    },
+    "error": {
+      "title": "Algo salió mal",
+      "message": "Ocurrió un error inesperado. Por favor, intenta nuevamente o vuelve a la página principal.",
+      "tryAgain": "Intentar de nuevo",
+      "goHome": "Ir al inicio"
+    }
+
+  }
+  

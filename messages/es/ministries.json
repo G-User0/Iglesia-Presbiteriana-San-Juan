@@ -1,0 +1,117 @@
+{
+    "hero": {
+      "title": "Nuestros Ministerios",
+      "subtitle": "Encuentra tu lugar para servir y conectar en nuestra comunidad eclesial"
+    },
+    "overview": {
+      "title": "Involúcrate",
+      "description": "En la Iglesia Presbiteriana San Juan, creemos que todos tienen dones y talentos para compartir. Nuestros ministerios brindan oportunidades para servir, crecer y conectarse con otros."
+    },
+    "common": {
+      "learnMore": "Más Información",
+      "getInvolved": "Involúcrate"
+    },
+    "ministries": {
+      "children": {
+        "title": "Ministerio Infantil",
+        "description": "Nutriendo la fe de nuestros miembros más jóvenes a través de enseñanza bíblica, adoración y actividades apropiadas para su edad."
+      },
+      "youth": {
+        "title": "Ministerio Juvenil",
+        "description": "Creando un espacio donde los adolescentes pueden construir relaciones auténticas, crecer en su fe y divertirse juntos."
+      },
+      "worship": {
+        "title": "Ministerio de Adoración",
+        "description": "Usando música y artes creativas para guiar a nuestra congregación en experiencias de adoración auténticas."
+      },
+      "adult": {
+        "title": "Discipulado de Adultos",
+        "description": "Ayudando a los adultos a crecer en su fe a través de estudios bíblicos, grupos pequeños y relaciones de mentoría."
+      },
+      "outreach": {
+        "title": "Alcance y Misiones",
+        "description": "Compartiendo el amor de Dios con nuestra comunidad y alrededor del mundo a través del servicio y evangelismo."
+      },
+      "care": {
+        "title": "Ministerio de Cuidado",
+        "description": "Brindando apoyo, oración y ayuda práctica a quienes están experimentando temporadas difíciles de la vida."
+      },
+      "welcome": {
+        "title": "Equipo de Bienvenida",
+        "description": "Creando una atmósfera cálida y acogedora para todos los que visitan nuestra iglesia."
+      },
+      "prayer": {
+        "title": "Ministerio de Oración",
+        "description": "Intercediendo por las necesidades de nuestra iglesia, comunidad y mundo a través de reuniones regulares de oración."
+      },
+      "hospitality": {
+        "title": "Ministerio de Hospitalidad",
+        "description": "Construyendo comunidad a través de comidas compartidas, eventos y oportunidades de compañerismo."
+      }
+    },
+    "featured": {
+      "badge": "Ministerio Destacado",
+      "title": "Ministerio Juvenil",
+      "description": "Nuestro Ministerio Juvenil proporciona un ambiente seguro y divertido donde los adolescentes en grados 6-12 pueden construir relaciones significativas, explorar su fe y descubrir su propósito dado por Dios.",
+      "gatherings": {
+        "title": "Las reuniones semanales incluyen:",
+        "item1": "Grupos pequeños los domingos por la mañana (9:45 AM)",
+        "item2": "Servicio juvenil los miércoles por la noche (6:30 PM)",
+        "item3": "Eventos especiales mensuales y proyectos de servicio",
+        "item4": "Viajes misioneros anuales y campamento de verano"
+      },
+      "leadership": "Dirigido por el Pastor Michael Brown y un equipo dedicado de voluntarios adultos, nuestro ministerio juvenil está comprometido a ayudar a los adolescentes a construir una base sólida en Cristo que durará toda la vida.",
+      "contactButton": "Contactar al Pastor Juvenil"
+    },
+    "volunteer": {
+      "title": "Oportunidades para Voluntarios",
+      "description": "Descubre cómo puedes usar tus dones y talentos únicos para servir en nuestra comunidad eclesial",
+      "commitment": "Compromiso de Tiempo",
+      "skills": "Habilidades Necesarias",
+      "applyButton": "Aplicar Ahora",
+      "opportunities": {
+        "worship": {
+          "title": "Equipo de Adoración",
+          "description": "Vocalistas, músicos y voluntarios técnicos que ayudan a guiar a nuestra congregación en adoración cada semana.",
+          "commitment": "Ensayos semanales más servicios dominicales",
+          "skills": "Habilidad musical, trabajo en equipo, compromiso"
+        },
+        "children": {
+          "title": "Ministerio Infantil",
+          "description": "Maestros, ayudantes y voluntarios de registro que crean un ambiente seguro y divertido para que los niños aprendan sobre Jesús.",
+          "commitment": "Servir 1-2 domingos al mes",
+          "skills": "Amor por los niños, paciencia, confiabilidad"
+        },
+        "welcome": {
+          "title": "Equipo de Bienvenida",
+          "description": "Saludadores, ujieres y voluntarios de hospitalidad que ayudan a crear un ambiente cálido y acogedor para todos.",
+          "commitment": "Servir 1-2 domingos al mes",
+          "skills": "Amabilidad, puntualidad, atención al detalle"
+        },
+        "outreach": {
+          "title": "Equipo de Alcance",
+          "description": "Voluntarios que ayudan a planificar y ejecutar proyectos de servicio comunitario y eventos de alcance.",
+          "commitment": "Reuniones mensuales más eventos",
+          "skills": "Compasión, organización, trabajo en equipo"
+        }
+      },
+      "assessment": {
+        "description": "¿No estás seguro dónde encajas? Toma nuestra evaluación de dones espirituales para descubrir cómo puedes servir mejor.",
+        "button": "Tomar Evaluación de Dones Espirituales"
+      }
+    },
+    "leaders": {
+      "title": "Líderes de Ministerios",
+      "subtitle": "Conoce a las personas dedicadas que lideran nuestros equipos de ministerio",
+      "contactButton": "Contactar",
+      "roles": {
+        "worship": "Pastor de Adoración",
+        "youth": "Pastor Juvenil",
+        "children": "Directora de Ministerio Infantil",
+        "outreach": "Coordinador de Alcance",
+        "prayer": "Líder de Ministerio de Oración",
+        "adult": "Director de Discipulado de Adultos"
+      }
+    }
+  }
+  

@@ -1,0 +1,228 @@
+{
+    "hero": {
+      "title": "설교 및 가르침",
+      "subtitle": "성경적 가르침을 통해 보고, 듣고, 성장하세요",
+      "imageAlt": "교회 설교",
+      "date": "2025년 3월 3일",
+      "cta": "설교 보기"
+    },
+    "search": {
+      "placeholder": "설교 검색...",
+      "filterButton": "필터",
+      "filters": {
+        "series": "시리즈",
+        "speaker": "설교자",
+        "date": "날짜"
+      },
+      "options": {
+        "allSeries": "모든 시리즈",
+        "faithThatWorks": "역사하는 믿음",
+        "spiritualDisciplines": "영적 훈련",
+        "peaceOfMind": "마음의 평화",
+        "lifesBigQuestions": "삶의 큰 질문들",
+        "allSpeakers": "모든 설교자",
+        "pastorAlfredo": "존 스미스 목사",
+        "pastorVioleta": "비올레타 홍 종애 목사",
+        "pastorSarah": "사라 존슨 목사",
+        "pastorMichael": "마이클 브라운 목사",
+        "allDates": "모든 날짜"
+      }
+    },
+    "featured": {
+      "title": "최신 메시지",
+      "subtitle": "지난 주일의 가장 최근 설교를 시청하세요",
+      "imageAlt": "주요 설교",
+      "sermon": {
+        "title": "믿음으로 걷기: 불확실한 시기에 하나님을 신뢰하기",
+        "series": "역사하는 믿음 시리즈",
+        "speaker": "존 스미스 목사",
+        "date": "2025년 3월 10일",
+        "scripture": "야고보서 1:2-8",
+        "description": "이 강력한 메시지에서 존 목사는 삶의 가장 어려운 시기에 우리가 어떻게 믿음을 유지할 수 있는지 탐구합니다. 야고보서에서 영감을 받아, 그는 앞길이 불확실해 보일 때 하나님을 신뢰하기 위한 실질적인 지혜를 나눕니다."
+      },
+      "buttons": {
+        "share": "공유하기",
+        "watchNow": "지금 보기"
+      }
+    },
+    "archive": {
+      "title": "설교 아카이브",
+      "subtitle": "과거 메시지 컬렉션을 둘러보세요",
+      "buttons": {
+        "watch": "보기",
+        "listen": "듣기",
+        "notes": "노트"
+      },
+      "sermons": {
+        "sermon1": {
+          "image": "https://youtu.be/wIKQ8tt8QlE?",
+          "title": "승리의 비밀",
+          "speaker": "알프레도 빌랄타 목사",
+          "date": "2025년 3월 3일",
+          "series": "영적 훈련",
+          "scripture": "마태복음 6:5-15",
+          "notes": [
+            "매일 기도하는 것을 잊지 마세요.",
+            "기도는 마음을 변화시킵니다."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon2": {
+          "image": "https://youtu.be/CKc7jE3PpH4?",
+          "title": "예수 그리스도는 교회의 주님이십니다",
+          "speaker": "알프레도 빌랄타 목사",
+          "date": "2025년 2월 24일",
+          "series": "마음의 평화",
+          "scripture": "빌립보서 4:4-9",
+          "notes": [
+            "하나님께서 우리를 걱정에서 자유롭게 하십니다.",
+            "기도와 감사로 마음을 지키세요."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon3": {
+          "image": "https://youtu.be/r0U7xCDkWxA?",
+          "title": "물을 변화시키는 생명...",
+          "speaker": "티모시 김 목사",
+          "date": "2025년 2월 17일",
+          "series": "삶의 큰 질문들",
+          "scripture": "에베소서 2:10",
+          "notes": [
+            "하나님은 우리 각자에게 계획이 있습니다.",
+            "섬김을 통해 당신의 목적을 발견하세요."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon4": {
+          "image": "https://youtu.be/xlpjYhLu9Eo?",
+          "title": "21일 단식을 넘어서",
+          "speaker": "알프레도 빌랄타 목사",
+          "date": "2025년 2월 10일",
+          "series": "예배 시리즈",
+          "scripture": "요한복음 4:23-24",
+          "notes": [
+            "예배는 우리의 마음과 영혼을 하나님께 드리는 것입니다.",
+            "진정한 예배는 삶의 모든 부분에서 이루어져야 합니다."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon5": {
+          "image": "https://youtu.be/5HAJZixiabc?",
+          "title": "재판에서의 우선순위",
+          "speaker": "알프레도 빌랄타 목사",
+          "date": "2025년 2월 3일",
+          "series": "함께 더 좋은",
+          "scripture": "사도행전 2:42-47",
+          "notes": [
+            "우리는 서로를 위해 존재합니다.",
+            "공동체는 우리의 믿음을 강화합니다."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon6": {
+          "image": "https://youtu.be/pPhiVKPa4gM?",
+          "title": "돌아오면 형제를 확인하세요",
+          "speaker": "알프레도 빌랄타 목사",
+          "date": "2025년 1월 27일",
+          "series": "영적 전쟁",
+          "scripture": "고린도전서 10:13",
+          "notes": [
+            "하나님은 우리가 감당할 수 있는 것만 시험에 들게 하십니다.",
+            "유혹을 피하는 방법을 배우세요."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon7": {
+          "image": "https://youtu.be/3Way0h9emVc?",
+          "title": "정복을 준비하다",
+          "speaker": "알프레도 빌랄타 목사",
+          "date": "2025년 1월 20일",
+          "series": "일상적인 믿음",
+          "scripture": "고린도후서 12:9",
+          "notes": [
+            "하나님의 은혜는 오늘도 우리와 함께합니다.",
+            "우리의 약함 속에서 하나님의 능력이 나타납니다."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon8": {
+          "image": "https://youtu.be/fQydBIbcafM?",
+          "title": "우리가 기다리고 있는 크리스마스",
+          "speaker": "바이올렛 홍종애 목사",
+          "date": "2025년 1월 13일",
+          "series": "재정적 자유",
+          "scripture": "마태복음 25:14-30",
+          "notes": [
+            "하나님이 주신 자원을 잘 관리하세요.",
+            "청지기로서의 책임을 다하세요."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        },
+        "sermon9": {
+          "image": "https://youtu.be/CCLaHNBEIYg?",
+          "title": "죄인을 위한 구원",
+          "speaker": "알프레도 빌랄타 목사",
+          "date": "2025년 1월 6일",
+          "series": "행동하는 사랑",
+          "scripture": "누가복음 10:25-37",
+          "notes": [
+            "이웃을 사랑하는 것은 우리의 의무입니다.",
+            "사랑은 행동으로 나타나야 합니다."
+          ],
+          "noNotes": "이 메시지에 대한 노트가 없습니다."
+        }
+      }
+    },
+    "pagination": {
+      "previous": "이전 페이지",
+      "next": "다음 페이지"
+    },
+    "series": {
+      "title": "설교 시리즈",
+      "subtitle": "다양한 주제에 관한 우리의 가르침 시리즈를 탐색하세요",
+      "items": {
+        "item1": {
+          "title": "역사하는 믿음",
+          "count": "6개 메시지"
+        },
+        "item2": {
+          "title": "영적 훈련",
+          "count": "8개 메시지"
+        },
+        "item3": {
+          "title": "마음의 평화",
+          "count": "5개 메시지"
+        },
+        "item4": {
+          "title": "삶의 큰 질문들",
+          "count": "7개 메시지"
+        },
+        "item5": {
+          "title": "함께 더 좋은",
+          "count": "4개 메시지"
+        },
+        "item6": {
+          "title": "영적 전쟁",
+          "count": "6개 메시지"
+        },
+        "item7": {
+          "title": "재정적 자유",
+          "count": "5개 메시지"
+        },
+        "item8": {
+          "title": "행동하는 사랑",
+          "count": "4개 메시지"
+        }
+      }
+    },
+    "subscribe": {
+      "title": "메시지를 놓치지 마세요",
+      "subtitle": "YouTube 채널을 구독하시면 최신 설교를 자동으로 받아보실 수 있습니다.",
+      "platforms": {
+        "youtube": "YouTube",
+        "applePodcasts": "Apple Podcasts",
+        "spotify": "Spotify"
+      }
+    }
+  }
+  

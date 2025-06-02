@@ -1,0 +1,128 @@
+{
+    "hero": {
+      "title": "Services & Sermons",
+      "subtitle": "Join us for worship, prayer, and biblical teaching",
+      "imageAlt": "Church service"
+    },
+    "serviceTimes": {
+      "title": "Worship With Us",
+      "subtitle": "We offer multiple services to accommodate your schedule. All are welcome!",
+      "sunday": {
+        "title": "Sunday Morning",
+        "time": "9:00 AM & 11:00 AM",
+        "description": "Traditional worship with choir and full sermon"
+      },
+      "MidMorning": {
+        "title": "Sunday Mid-Morning",
+        "time": "09:30 AM",
+        "description": "Sunday school for children ages -- to --"
+      },
+      "evening": {
+        "title": "Sunday Evening",
+        "time": "15:00 PM",
+        "description": "Youth service with praise and teaching"
+      },
+      "wednesday": {
+        "title": "Wednesday Night",
+        "time": "20:00",
+        "description": "Bible study and prayer meeting"
+      },
+      "week": {
+        "title": "Tuesday to Friday",
+        "time": "5:30 AM",
+        "satit": "Saturday - 06:30",
+        "description": "Prayer meeting"
+      }
+    },
+    "location": {
+      "address": "Av. Miguel iglesias, C. Miguel grau, Lima, Perú"
+    },
+    "buttons": {
+      "planVisit": "Plan Your Visit",
+      "learnMore": "Learn More About Us"
+    },
+    "whatToExpect": {
+      "title": "What to Expect?",
+      "imageAlt": "Church worship service",
+      "paragraph1": "When you visit St. John's Presbyterian Church, you'll be welcomed into a friendly, casual environment where you can come as you are.",
+      "paragraph2": "Our services typically last about 1 hour and include:",
+      "list": {
+        "item1": "Engaging worship music that blends contemporary and traditional styles",
+        "item2": "Practical, Bible-based teaching that applies to everyday life",
+        "item3": "Opportunities for prayer and reflection",
+        "item4": "Programs for children and youth during service times"
+      },
+      "paragraph3": "Whether you're exploring faith for the first time or have been a Christian for years, we have a place for you."
+    },
+    "latestSermons": {
+      "title": "Latest Sermons",
+      "subtitle": "Missed a service? Watch or listen to our recent messages",
+      "buttons": {
+        "watch": "Watch",
+        "listen": "Listen",
+        "notes": "Notes",
+        "viewAll": "View All Sermons"
+      },
+      "sermons": {
+        "sermon1": {
+          "title": "Walking in Faith",
+          "speaker": "Pastor John Smith",
+          "date": "March 10, 2025",
+          "series": "Faith That Works"
+        },
+        "sermon2": {
+          "title": "The Power of Prayer",
+          "speaker": "Pastor Sarah Johnson",
+          "date": "March 3, 2025",
+          "series": "Spiritual Disciplines"
+        },
+        "sermon3": {
+          "title": "Finding Peace in Chaos",
+          "speaker": "Pastor Michael Brown",
+          "date": "February 24, 2025",
+          "series": "Peace of Mind"
+        },
+        "sermon4": {
+          "title": "Living with Purpose",
+          "speaker": "Pastor John Smith",
+          "date": "February 17, 2025",
+          "series": "Life's Big Questions"
+        },
+        "sermon5": {
+          "title": "The Heart of Worship",
+          "speaker": "Pastor Sarah Johnson",
+          "date": "February 10, 2025",
+          "series": "Worship Series"
+        },
+        "sermon6": {
+          "title": "Community Matters",
+          "speaker": "Pastor Michael Brown",
+          "date": "February 3, 2025",
+          "series": "Better Together"
+        }
+      }
+    },
+    "specialServices": {
+      "title": "Special Services",
+      "subtitle": "In addition to our regular services, we offer special gatherings throughout the year",
+      "services": {
+        "service1": {
+          "title": "Holiday Services",
+          "description": "Special services for Easter, Christmas, and other significant holidays. These services often include special music, drama, and meaningful traditions."
+        },
+        "service2": {
+          "title": "Baptism Services",
+          "description": "Quarterly baptism services where new believers publicly declare their faith. These joyful celebrations are open to all who wish to witness this important step."
+        },
+        "service3": {
+          "title": "Communion Services",
+          "description": "Monthly communion services where we remember Christ's sacrifice. These reflective services include worship, scripture reading, and partaking in the Lord's Supper."
+        },
+        "service4": {
+          "title": "Prayer & Healing Services",
+          "description": "Special services dedicated to prayer for healing and spiritual renewal. These intimate gatherings provide space for extended prayer and ministry."
+        }
+      }
+    }
+  }
+  

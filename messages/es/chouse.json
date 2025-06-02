@@ -1,0 +1,197 @@
+{
+  "hero": {
+    "title": "Casas Iglesia",
+    "subtitle": "Comunidades de fe que se reúnen en hogares para adoración, estudio bíblico y compañerismo"
+  },
+  "info": {
+    "title": "Encuentra una Casa Iglesia",
+    "subtitle": "Nuestras Casas Iglesia se reúnen semanalmente en diferentes vecindarios. ¡Encuentra una cerca de ti!",
+    "learnMore": "Más Información",
+    "rsvp": "Contactar"
+  },
+  "events": {
+    "event1": {
+      "title": "Casa Iglesia Nuevo Cañete",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Mery Guerrera",
+      "description": "Un grupo acogedor para familias y personas de todas las edades que se enfoca en el estudio bíblico práctico."
+    },
+    "event2": {
+      "title": "Casa Iglesia Morcolla",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Justiniano Guerrera",
+      "description": "Un grupo dinámico que combina adoración contemporánea con enseñanza bíblica sólida."
+    },
+    "event3": {
+      "title": "Casa Iglesia Puno",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Francisco Mayta",
+      "description": "Un grupo enfocado en la oración y el apoyo mutuo, ideal para quienes buscan crecimiento espiritual."
+    },
+    "event4": {
+      "title": "Casa Iglesia Arequipa",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Nancy Huillca",
+      "description": "Un grupo para jóvenes adultos que combina estudio bíblico con actividades sociales y servicio comunitario."
+    },
+    "event5": {
+      "title": "Casa Iglesia Pasco",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Ana Rojas",
+      "description": "Un grupo para estudiantes universitarios que busca aplicar principios bíblicos a los desafíos académicos y profesionales."
+    },
+    "event6": {
+      "title": "Casa Iglesia México",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Frank Naupari",
+      "description": "Un grupo familiar que enfatiza el discipulado intergeneracional y la comunidad."
+    },
+    "event7": {
+      "title": "Casa Iglesia Huánuco",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Enrique Granadino",
+      "description": "Un grupo acogedor para familias y personas de todas las edades que se enfoca en el estudio bíblico práctico."
+    },
+    "event8": {
+      "title": "Casa Iglesia Ica",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de José Cuya",
+      "description": "Un grupo dinámico que combina adoración contemporánea con enseñanza bíblica sólida."
+    },
+    "event9": {
+      "title": "Casa Iglesia Ecuador",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Eduardo Soto",
+      "description": "Un grupo enfocado en la oración y el apoyo mutuo, ideal para quienes buscan crecimiento espiritual."
+    },
+    "event10": {
+      "title": "Casa Iglesia Ancash",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Keren Hurtado",
+      "description": "Un grupo para jóvenes adultos que combina estudio bíblico con actividades sociales y servicio comunitario."
+    },
+    "event11": {
+      "title": "Casa Iglesia Costa Rica",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Estefany Castro",
+      "description": "Un grupo para estudiantes universitarios que busca aplicar principios bíblicos a los desafíos académicos y profesionales."
+    },
+    "event12": {
+      "title": "Casa Iglesia La Merced",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de David Zila",
+      "description": "Un grupo familiar que enfatiza el discipulado intergeneracional y la comunidad."
+    },
+    "event13": {
+      "title": "Casa Iglesia Cuzco",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa -- --",
+      "description": "Un grupo acogedor para familias y personas de todas las edades que se enfoca en el estudio bíblico práctico."
+    },
+    "event14": {
+      "title": "Casa Iglesia Chanchamayo",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00 PM",
+      "location": "Casa de Bruno Urruchi",
+      "description": "Un grupo dinámico que combina adoración contemporánea con enseñanza bíblica sólida."
+    },
+    "event15": {
+      "title": "Casa Iglesia Panamá",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00 PM",
+      "location": "Casa de Billy George",
+      "description": "Un grupo enfocado en la oración y el apoyo mutuo, ideal para quienes buscan crecimiento espiritual."
+    },
+    "event16": {
+      "title": "Casa Iglesia Bolivia",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de Abigail Mayta",
+      "description": "Un grupo para jóvenes adultos que combina estudio bíblico con actividades sociales y servicio comunitario."
+    },
+    "event17": {
+      "title": "Casa Iglesia Amazonas",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa Argenis Rodriguez",
+      "description": "Un grupo para estudiantes universitarios que busca aplicar principios bíblicos a los desafíos académicos y profesionales."
+    },
+    "event18": {
+      "title": "Casa Iglesia San Martín",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de María Aldoradin",
+      "description": "Un grupo familiar que enfatiza el discipulado intergeneracional y la comunidad."
+    },
+    "event19": {
+      "title": "Casa Iglesia Venezuela",
+      "date": "Semanal",
+      "calendar": "Todos los Viernes",
+      "time": "20:00",
+      "location": "Casa de María Aldoradin",
+      "description": "Un grupo familiar que enfatiza el discipulado intergeneracional y la comunidad."
+    }
+  },
+  "beliefs": {
+    "title": "¿Qué son las Casas Iglesia?",
+    "introduction": "Las Casas Iglesia son comunidades pequeñas que forman parte vital de nuestra iglesia. Están diseñadas para fomentar relaciones profundas y crecimiento espiritual.",
+    "subtitle0": "Comunidad Auténtica",
+    "subtitle1": "Estudio Bíblico",
+    "subtitle2": "Oración",
+    "subtitle3": "Discipulado",
+    "subtitle4": "Compañerismo",
+    "subtitle5": "⚠️ Importante ⚠️",
+    "items": {
+      "item0": "Las Casas Iglesia proporcionan un espacio para formar relaciones genuinas y experimentar comunidad cristiana auténtica.",
+      "item1": "Cada reunión incluye tiempo dedicado a estudiar la Biblia y aplicar sus enseñanzas a la vida diaria.",
+      "item2": "La oración es un componente central, donde los miembros comparten necesidades y celebran respuestas a la oración.",
+      "item3": "Las Casas Iglesia facilitan el crecimiento espiritual a través del discipulado intencional y la rendición de cuentas.",
+      "item4": "El compañerismo regular fortalece los lazos entre los miembros y crea un sentido de pertenencia.",
+      "item5": "CASA IGLESIA no es lo mismo que una CÉLULA. Mientras la célula es solo una parte de la iglesia, la Casa Iglesia es la iglesia completa en pequeña escala, con todos sus ministerios funcionando en comunidad."
+    },
+    "conclusion": "Unirse a una Casa Iglesia es una de las mejores maneras de conectarse con nuestra comunidad de fe y crecer en tu caminar con Cristo."
+  },
+  "detail": {
+    "subtitle": "Detalles de la Casa Iglesia",
+    "backToList": "Volver a la lista",
+    "selectPlaceholder": "Seleccionar Casa Iglesia",
+    "contactButton": "Contactar",
+    "leadership": "Pastores Laicos",
+    "layPastor": "Pastor Laico",
+    "layCoPasstor": "Co-Pastor Laico",
+    "contactLeaders": "Contactar Líderes",
+    "nextMeeting": "Próxima Reunión",
+    "addToCalendar": "Añadir al Calendario"
+  }
+}

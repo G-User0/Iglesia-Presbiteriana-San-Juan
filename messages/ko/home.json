@@ -1,0 +1,136 @@
+{
+    "hero": {
+      "title": "세인트 존 장로교회",
+      "subtitle": "우리는 영혼을 구원하고 제자를 만드는 교회입니다.",
+      "join": "함께하기",
+      "latestSermon": "최신 설교 보기",
+      "weeklyVerse": "이번 주 성경 구절"
+    },
+    "welcome": {
+      "title": "우리 공동체에 오신 것을 환영합니다",
+      "subtitle": "믿음, 소망, 사랑을 공동체 안에서 찾을 수 있는 곳",
+      "upcomingEvents": {
+        "title": "다가오는 행사",
+        "event1": {
+          "title": "주일 예배",
+          "date0": "오전 7시 30분 및 오전 11시 30분 (주요 예배)",
+          "date1": "오전 9시 30분 (주일 학교)",
+          "date2": "오후 3시 (청소년 예배)"
+        },
+        "event2": {
+          "title": "기도 예배",
+          "date": "수요일: 오후 8시"
+        },
+        "event3": {
+          "title": "기도 시간",
+          "date": "월 - 금: 오전 5시 및 토요일: 오전 6시 30분"
+        },
+        "viewAll": "참석 방법 보기"
+      },
+      "latestSermon": {
+        "title": "최신 설교",
+        "sermon1": {
+          "title": "믿음으로 걷기",
+          "pastor": "존 스미스 목사"
+        },
+        "sermon2": {
+          "title": "기도의 힘",
+          "pastor": "사라 존슨 목사"
+        },
+        "sermon3": {
+          "title": "혼돈 속에서 평화 찾기",
+          "pastor": "마이클 브라운 목사"
+        },
+        "viewAll": "모든 설교 보기"
+      },
+      "getInvolvedCh": {
+        "title": "소그룹",
+        "description": "소그룹은 신앙을 성장시키고 의미 있는 관계를 쌓을 수 있는 작은 모임입니다. 우리 소그룹 중 하나에 참여하세요.",
+        "ministry1": "아레키파 교회 건물",
+        "ministry2": "멕시코 교회 건물",
+        "ministry3": "파나마 교회 건물",
+        "viewAll": "모든 소그룹 보기"
+      },
+      "getInvolved": {
+        "title": "참여하기",
+        "description": "우리 교회 공동체에서 섬기고 연결될 수 있는 많은 방법이 있습니다. 우리의 사역 중 하나에서 당신의 자리를 찾으세요.",
+        "ministry1": "청소년 사역",
+        "ministry2": "예배팀",
+        "ministry3": "지역 사회 봉사",
+        "viewAll": "모든 사역 보기"
+      }
+    },
+      "testimonials": {
+      "title": "우리 공동체의 간증",
+      "subtitle": "우리 교인들의 신앙과 변화 이야기를 들어보세요",
+      "testimonial1": {
+        "name": "메리 가르시아",
+        "since": "2015년부터 교인",
+        "text": "이 교회는 제 인생을 변화시켰습니다. 그리스도 안에서 진정한 가족을 찾았고 전에 없던 영적 성장을 경험했습니다."
+      },
+      "testimonial2": {
+        "name": "카를로스 로드리게스",
+        "since": "2018년부터 교인",
+        "text": "설교는 깊이가 있고 제 일상에 적용됩니다. 주일 예배 후에는 항상 새로워짐을 느낍니다."
+      },
+      "testimonial3": {
+        "name": "안나 마르티네즈",
+        "since": "2010년부터 교인",
+        "text": "청소년 사역은 제 자녀들에게 축복이었습니다. 그들은 신앙 안에서 성장했고 평생 지속될 우정을 만들었습니다."
+      },
+      "testimonial4": {
+        "name": "조셉 헤르난데스",
+        "since": "2019년부터 교인",
+        "text": "도시로 이사왔을 때, 이 교회는 저를 열린 마음으로 환영해주었습니다. 그 이후로 외로움을 느낀 적이 없습니다."
+      },
+      "testimonial5": {
+        "name": "라우라 디아즈",
+        "since": "2016년부터 교인",
+        "text": "소그룹은 제 영적 성장에 근본적인 역할을 했습니다. 그리스도 안의 형제자매들로부터 많은 것을 배웠습니다."
+      },
+      "testimonial6": {
+        "name": "로버트 산체스",
+        "since": "2014년부터 교인",
+        "text": "예배팀은 제가 하나님과 진정으로 연결될 수 있는 환경을 만듭니다. 매주 일요일은 강력한 경험입니다."
+      }
+    },
+    "contact": {
+      "title": "연락하기",
+      "subtitle": "우리는 여러분을 섬기고 질문에 답하기 위해 여기 있습니다",
+      "visitUs": {
+        "title": "방문하기",
+        "address": {
+          "label": "주소",
+          "value": "평균 미구엘 이글레시아스 - C. 미구엘 그라우트 - 리마"
+        },
+        "serviceHours": {
+          "label": "예배 시간",
+          "week": "화 - 금: 05:00 (기도)",
+          "week1": "토요일: 06:30 (기도)",
+          "sunday": "일요일: 오전 7시 30분 및 오전 11시 30분",
+          "wednesday": "수요일: 오후 8시 (기도예배)"
+        },
+        "email": {
+          "label": "연락하기",
+          "value": "contact@psjchurch.org"
+        },
+        "phone": {
+          "label": "전화",
+          "value": "+51 923 456 789"
+        },
+        "contactButton": "연락하기"
+      },
+      "sendMessage": {
+        "title": "메시지 보내기",
+        "name": "이름",
+        "namePlaceholder": "당신의 이름",
+        "email": "이메일",
+        "emailPlaceholder": "you@email.com",
+        "message": "메시지",
+        "messagePlaceholder": "어떻게 도와드릴까요?",
+        "sendButton": "메시지 보내기",
+        "successMessage": "메시지가 성공적으로 전송되었습니다. 곧 연락드리겠습니다."
+      }
+    }
+  }
+  

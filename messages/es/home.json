@@ -1,0 +1,137 @@
+  {
+    "hero": {
+      "title": "Iglesia Prebiteriana San Juan",
+      "subtitle": "Somos una iglesia que existimos para salvar almas y hacer discípulos",
+      "join": "Unirme",
+      "latestSermon": "Ver último sermón",
+      "weeklyVerse": "Versículo semanal"
+    },
+    "welcome": {
+      "title": "Bienvenidos a nuestra comunidad",
+      "subtitle": "Un lugar donde encontrarás fe, esperanza y amor en comunidad",
+      "upcomingEvents": {
+        "title": "Nuestros servicios",
+        "event1": {
+          "title": "Cultos dominicales",
+          "date0": "07:30 y 11:30 (Cultos Princiaples)",
+          "date1": "09:30 (Escuela Dominical)",
+          "date2": "15:00 (Culto de Adolescentes)"
+        },
+        "event2": {
+          "title": "Culto de oración",
+          "date": "Miercoles: 20:00"
+        },
+        "event3": {
+          "title": "Tiempo de oración",
+          "date": "Lun - Vie: 05:00 y Sab: 06:30"
+        },
+        "viewAll": "Ver cómo asistir"
+      },
+      "latestSermon": {
+        "title": "Casa Iglesia",
+        "sermon1": {
+          "title": "Caminando con fe",
+          "pastor": "Pastor John Smith"
+        },
+        "sermon2": {
+          "title": "El poder de la oración",
+          "pastor": "Pastora Sarah Johnson"
+        },
+        "sermon3": {
+          "title": "Encontrando paz en el caos",
+          "pastor": "Pastor Michael Brown"
+        },
+        "viewAll": "Ver todos los sermones"
+      },
+      "getInvolvedCh": {
+        "title": "Casa iglesia",
+        "description": "Las casas iglesia son grupos pequeños donde puedes crecer en tu fe y construir relaciones significativas. Únete a nosotros en una de nuestras casas iglesia.",
+        "ministry1": "Casa Iglesia Arequipa",
+        "ministry2": "Casa Iglesia México",
+        "ministry3": "Casa Iglesia Panamá",
+        "viewAll": "Ver todas las casas iglesia"
+      },
+      "getInvolved": {
+        "title": "Involúcrate",
+        "description": "Hay muchas maneras de servir y conectar con nuestra comunidad eclesial. Encuentra tu lugar en uno de nuestros ministerios.",
+        "ministry1": "Ministerio Juvenil",
+        "ministry2": "Equipo de Adoración",
+        "ministry3": "Alcance Comunitario",
+        "viewAll": "Ver todos los ministerios"
+      }
+    },
+    "testimonials": {
+        "title": "Testimonios de nuestra comunidad",
+        "subtitle": "Historias de fe y transformación de nuestros miembros",
+        "testimonial1": {
+          "name": "María García",
+          "since": "Miembro desde 2015",
+          "text": "Esta iglesia ha transformado mi vida. He encontrado una verdadera familia en Cristo y he crecido espiritualmente como nunca antes."
+        },
+        "testimonial2": {
+          "name": "Carlos Rodríguez",
+          "since": "Miembro desde 2018",
+          "text": "Los sermones son profundos y relevantes para mi vida diaria. Me siento renovado cada domingo después del servicio."
+        },
+        "testimonial3": {
+          "name": "Ana Martínez",
+          "since": "Miembro desde 2010",
+          "text": "El ministerio juvenil ha sido una bendición para mis hijos. Han crecido en su fe y han hecho amistades que durarán toda la vida."
+        },
+        "testimonial4": {
+          "name": "José Hernández",
+          "since": "Miembro desde 2019",
+          "text": "Cuando me mudé a la ciudad, esta iglesia me recibió con los brazos abiertos. Nunca me he sentido solo desde entonces."
+        },
+        "testimonial5": {
+          "name": "Laura Díaz",
+          "since": "Miembro desde 2016",
+          "text": "Los grupos pequeños han sido fundamentales para mi crecimiento espiritual. He aprendido tanto de mis hermanos y hermanas en Cristo."
+        },
+        "testimonial6": {
+          "name": "Roberto Sánchez",
+          "since": "Miembro desde 2014",
+          "text": "El equipo de adoración crea un ambiente donde realmente puedo conectarme con Dios. Cada domingo es una experiencia poderosa."
+        }
+      },
+    "contact": {
+      "title": "Contáctanos",
+      "subtitle": "Estamos aquí para servirte y responder a tus preguntas",
+      "visitUs": {
+        "title": "Visítanos",
+        "address": {
+          "label": "Dirección",
+          "value": "Av. Miguel iglesias - C. Miguel grau - Lima"
+        },
+        "serviceHours": {
+          "label": "Horarios de servicio",
+          "week": "Mar - Vie: 05:00 (Oración)",
+          "week1": "Sabado: 06:30 (Oración)",
+          "sunday": "Domingos: 07:30 y 11:30",
+          "wednesday": "Miércoles: 20:00 (Culto de oración)"
+        },
+        "email": {
+          "label": "Contáctanos",
+          "value": "contacto@iglesiapsj.org"
+        },
+        "phone": {
+          "label": "Teléfono",
+          "value": "+51 956 247 195"
+        },
+        "contactButton": "Contactar"
+      },
+      "sendMessage": {
+        "title": "Envíanos un mensaje",
+        "name": "Nombre",
+        "namePlaceholder": "Tu nombre",
+        "email": "Correo electrónico",
+        "emailPlaceholder": "tu@email.com",
+        "message": "Mensaje",
+        "messagePlaceholder": "¿Cómo podemos ayudarte?",
+        "sendButton": "Enviar mensaje",
+        "successMessage": "Mensaje enviado con éxito. Nos pondremos en contacto pronto."
+      }
+      
+    }
+  }
+  

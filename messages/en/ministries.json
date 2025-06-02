@@ -1,0 +1,118 @@
+{
+    "hero": {
+      "title": "Our Ministries",
+      "subtitle": "Find your place to serve and connect in our church community"
+    },
+    "overview": {
+      "title": "Get Involved",
+      "description": "At St. John's Presbyterian Church, we believe everyone has gifts and talents to share. Our ministries provide opportunities to serve, grow, and connect with others."
+    },
+    "common": {
+      "learnMore": "Learn More",
+      "getInvolved": "Get Involved"
+    },
+    "ministries": {
+      "children": {
+        "title": "Children's Ministry",
+        "description": "Nurturing the faith of our youngest members through age-appropriate Bible teaching, worship, and activities."
+      },
+      "youth": {
+        "title": "Youth Ministry",
+        "description": "Creating a space where teens can build authentic relationships, grow in their faith, and have fun together."
+      },
+      "worship": {
+        "title": "Worship Ministry",
+        "description": "Using music and creative arts to lead our congregation in authentic worship experiences."
+      },
+      "adult": {
+        "title": "Adult Discipleship",
+        "description": "Helping adults grow in their faith through Bible studies, small groups, and mentoring relationships."
+      },
+      "outreach": {
+        "title": "Outreach & Missions",
+        "description": "Sharing God's love with our community and around the world through service and evangelism."
+      },
+      "care": {
+        "title": "Care Ministry",
+        "description": "Providing support, prayer, and practical help to those experiencing difficult seasons of life."
+      },
+      "welcome": {
+        "title": "Welcome Team",
+        "description": "Creating a warm, inviting atmosphere for everyone who visits our church."
+      },
+      "prayer": {
+        "title": "Prayer Ministry",
+        "description": "Interceding for the needs of our church, community, and world through regular prayer gatherings."
+      },
+      "hospitality": {
+        "title": "Hospitality Ministry",
+        "description": "Building community through shared meals, events, and fellowship opportunities."
+      }
+    },
+    "featured": {
+      "badge": "Featured Ministry",
+      "title": "Youth Ministry",
+      "description": "Our Youth Ministry provides a safe, fun environment where teens in grades 6-12 can build meaningful relationships, explore their faith, and discover their God-given purpose.",
+      "gatherings": {
+        "title": "Weekly gatherings include:",
+        "item1": "Sunday morning small groups (9:45 AM)",
+        "item2": "Wednesday night youth service (6:30 PM)",
+        "item3": "Monthly special events and service projects",
+        "item4": "Annual mission trips and summer camp"
+      },
+      "leadership": "Led by Pastor Michael Brown and a dedicated team of adult volunteers, our youth ministry is committed to helping teenagers build a strong foundation in Christ that will last a lifetime.",
+      "contactButton": "Contact Youth Pastor"
+    },
+    "volunteer": {
+      "title": "Volunteer Opportunities",
+      "description": "Discover how you can use your unique gifts and talents to serve in our church community",
+      "commitment": "Time Commitment",
+      "skills": "Skills Needed",
+      "applyButton": "Apply Now",
+      "opportunities": {
+        "worship": {
+          "title": "Worship Team",
+          "description": "Vocalists, musicians, and tech volunteers who help lead our congregation in worship each week.",
+          "commitment": "Weekly rehearsals plus Sunday services",
+          "skills": "Musical ability, teamwork, commitment"
+        },
+        "children": {
+          "title": "Children's Ministry",
+          "description": "Teachers, helpers, and check-in volunteers who create a safe, fun environment for kids to learn about Jesus.",
+          "commitment": "Serve 1-2 Sundays per month",
+          "skills": "Love for children, patience, reliability"
+        },
+        "welcome": {
+          "title": "Welcome Team",
+          "description": "Greeters, ushers, and hospitality volunteers who help create a warm, welcoming environment for everyone.",
+          "commitment": "Serve 1-2 Sundays per month",
+          "skills": "Friendliness, punctuality, attention to detail"
+        },
+        "outreach": {
+          "title": "Outreach Team",
+          "description": "Volunteers who help plan and execute community service projects and outreach events.",
+          "commitment": "Monthly meetings plus events",
+          "skills": "Compassion, organization, teamwork"
+        }
+      },
+      "assessment": {
+        "description": "Not sure where you fit in? Take our spiritual gifts assessment to discover how you can best serve.",
+        "button": "Take the Spiritual Gifts Assessment"
+      }
+    },
+
+    "leaders": {
+      "title": "Ministry Leaders",
+      "subtitle": "Meet the dedicated individuals who lead our ministry teams",
+      "contactButton": "Contact",
+      "roles": {
+        "worship": "Worship Pastor",
+        "youth": "Youth Pastor",
+        "children": "Children's Ministry Director",
+        "outreach": "Outreach Coordinator",
+        "prayer": "Prayer Ministry Leader",
+        "adult": "Adult Discipleship Director"
+      }
+    }
+  }
+  

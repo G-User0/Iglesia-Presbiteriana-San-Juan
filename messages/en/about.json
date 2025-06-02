@@ -1,0 +1,107 @@
+{
+    "hero": {
+      "title": "About Our Church",
+      "subtitle": "Learn about our history, mission, and the people who make our community special",
+      "imageAlt": "Church building"
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "St. John's Presbyterian Church was founded in 1985 by a small group of families who shared a vision for a church that would be welcoming to all and deeply rooted in scripture.",
+      "paragraph2": "What began as a small gathering in a living room has grown into a vibrant community of believers dedicated to serving God and our neighbors. Through the years, we've been blessed to see countless lives transformed by God's grace.",
+      "paragraph3": "In 2005, we moved to our current location, which has allowed us to expand our ministries and better serve the community. Throughout our growth, we've remained committed to our founding principles of authentic worship, biblical teaching, and compassionate outreach.",
+      "imageAlt": "Church history"
+    },
+    "mission": {
+      "title": "Our Mission & Values",
+      "subtitle": "We are guided by a clear mission and core values that shape everything we do",
+      "missionCard": {
+        "title": "Our Mission",
+        "description": "- To glorify God by making disciples who love God, grow in community, and serve the world.",
+        "description1": "- To save souls and make disciples."
+      },
+      "visionCard": {
+        "title": "Our Vision",
+        "description": "To be a church where people of all backgrounds can encounter God's love and be equipped to make a difference in their communities."
+      },
+      "valuesCard": {
+        "title": "Our Values",
+        "description": "Biblical teaching, authentic worship, meaningful community, compassionate service, and intentional discipleship."
+      }
+    },
+  "base": {
+    "stitle": "Our bases",
+    "title": "Life Courses",
+    "subtitle": "Our church is built on <highlight>three essential pillars</highlight>: <highlight>United Worship</highlight>, where we worship together as one body; <highlight>House Church</highlight>, where we live out our faith in community; and <highlight>Bible Study</highlight>, where we grow in the Word with practical and transformative teaching.",
+    "main": "United Worship",
+    "left": "House Church",
+    "right": "Bible Study",
+    "topText": "General meeting of the whole church. It takes place on Sundays as a vital part of the Christian life - Acts 12:5, 13:3.",
+    "leftText": "Community of believers who meet regularly (6 to 12 people) in the home of a lay leader. It fulfills all the functions of a local church - Acts 2:42-47.",
+    "course1": "Vital Life",
+    "course2": "New Life",
+    "course3": "Life of Conviction",
+    "course4": "Pious Life",
+    "course5": "Experience with God",
+    "duration1": "13 Weeks",
+    "duration2": "13 Weeks",
+    "duration3": "06 Weeks",
+    "duration4": "13 Weeks",
+    "duration5": "13 Weeks"
+  },
+    "leadership": {
+      "title": "Our Leadership Team",
+      "subtitle": "Meet the dedicated individuals who guide our church community",
+      "leaders": {
+        "leader1": {
+          "name": "Alfredo Villalta",
+          "role": "Lead Pastor",
+          "bio": "Pastor John has served our church for over 15 years. He has a passion for teaching God's Word and helping people grow in their faith."
+        },
+        "leader2": {
+          "name": "Violeta Hong Jong Ae",
+          "role": "Lead Pastor",
+          "bio": "Sarah leads our worship ministry with creativity and a deep love for God. She has been part of our church family since 2010."
+        },
+        "leader3": {
+          "name": "Michael Brown",
+          "role": "Elder of the congregation",
+          "bio": "Michael brings energy and wisdom to our youth ministry. He is dedicated to helping young people build a strong foundation in Christ."
+        },
+        "leader4": {
+          "name": "David Wilson",
+          "role": "Elder of the congregation",
+          "bio": "David has served as an elder for 8 years. His wisdom and discernment have been invaluable to our church leadership."
+        },
+        "leader5": {
+          "name": "Rebecca Martinez",
+          "role": "Secretary",
+          "bio": "Rebecca has a heart for children and families. She creates engaging programs that help children learn about God's love."
+        },
+        "leader6": {
+          "name": "James Thompson",
+          "role": "Outreach Coordinator",
+          "bio": "James coordinates our community service initiatives. He is passionate about showing God's love through practical service."
+        }
+      }
+    },
+    "beliefs": {
+      "title": "Our Beliefs",
+      "introduction": "At St. John's Presbyterian Church, we believe in the authority of Scripture and the centrality of the gospel message. Our core beliefs include:",
+      "items": {
+        "subtitle1": "The Bible",
+        "item1": "The Bible is the inspired and infallible Word of God.",
+        "subtitle2": "God",
+        "item2": "There is one God, eternally existing in three persons: Father, Son, and Holy Spirit.",
+        "subtitle3": "Jesus",
+        "item3": "Jesus Christ is fully God and fully man, born of a virgin, and lived a sinless life.",
+        "subtitle4": "Salvation",
+        "item4": "Salvation is by grace through faith in Jesus Christ alone.",
+        "subtitle5": "Holy Spirit",
+        "item5": "The church is the body of Christ, called to worship, fellowship, and service.",
+        "subtitle6": "The church",
+        "item6": "The church is not just a building, but the community of believers in Christ, where each person has a role and is guided by the Holy Spirit."
+      },
+      "conclusion": "These beliefs guide our teaching, worship, and ministry as we seek to honor God and serve our community."
+    }
+  }
+  

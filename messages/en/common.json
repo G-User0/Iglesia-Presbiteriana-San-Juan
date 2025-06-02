@@ -1,0 +1,47 @@
+{
+    "navbar": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Services",
+      "sermons": "Sermons",
+      "chouse": "Church House",
+      "events": "Events",
+      "menu": "menu",
+      "ministries": "Ministries",
+
+      "contact": "Contact"
+    },
+    "footer": {
+      "titlepage": "St. John's Presbyterian Church",
+      "description": "A place of faith, hope, and love where everyone is welcome.",
+      "quickLinks": "Quick Links",
+      "ministries": "Ministries",
+      "contactUs": "Contact Us",
+      "events": "Events",
+      "give": "Give",
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "sermons": "Sermons",
+      "contact": "Contact",
+      "childrenMinistry": "Children's Ministry",
+      "youthMinistry": "Youth Ministry",
+      "worshipTeam": "Worship Team",
+      "communityOutreach": "Community Outreach",
+      "prayerMinistry": "Prayer Ministry",
+      "address": "Av. Miguel iglesias - C. Miguel grau",
+      "phone": "+51 956 247 195",
+      "email": "contact@psjchurch.org",
+      "copyright": "© 2025 St. John's Presbyterian Church. All rights reserved.",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service"
+    },
+    "error": {
+      "title": "Something went wrong",
+      "message": "An unexpected error occurred. Please try again or return to the home page.",
+      "tryAgain": "Try again",
+      "goHome": "Go to home"
+    }
+
+  }
+  

@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title": "Eventos y Calendario",
+    "subtitle": "Únete a nosotros para adoración, comunión y alcance comunitario"
+  },
+  "upcomingEvents": {
+    "title": "Próximos Eventos",
+    "subtitle": "Siempre hay algo sucediendo en nuestra iglesia. Encuentra un evento y participa!",
+    "learnMore": "Más Información",
+    "rsvp": "Confirmar"
+  },
+    "events": {
+      "event1": {
+        "title": "Servicio de Adoración Dominical",
+        "date": "17 de marzo de 2025",
+        "time": "9:00 AM y 11:00 AM",
+        "location": "Santuario Principal",
+        "description": "Únete a nosotros para adoración, oración y enseñanza bíblica. Programas para niños disponibles en todos los servicios."
+      },
+      "event2": {
+        "title": "Grupo de Estudio Bíblico",
+        "date": "19 de marzo de 2025",
+        "time": "7:00 PM",
+        "location": "Salón de Confraternidad",
+        "description": "Estudio bíblico de mitad de semana enfocado en el libro de Romanos. Todos son bienvenidos a unirse a esta discusión enriquecedora."
+      },
+      "event3": {
+        "title": "Alcance Comunitario",
+        "date": "21 de marzo de 2025",
+        "time": "9:00 AM",
+        "location": "Centro Comunitario",
+        "description": "Voluntariado para ayudar a distribuir alimentos y suministros a familias necesitadas en nuestra comunidad local."
+      },
+      "event4": {
+        "title": "Reunión de Grupo Juvenil",
+        "date": "21 de marzo de 2025",
+        "time": "6:30 PM",
+        "location": "Centro Juvenil",
+        "description": "Diversión, compañerismo y desarrollo de fe para estudiantes de grados 6-12. Juegos, adoración y grupos pequeños."
+      },
+      "event5": {
+        "title": "Desayuno de Mujeres",
+        "date": "22 de marzo de 2025",
+        "time": "8:30 AM",
+        "location": "Salón de Confraternidad",
+        "description": "Reunión mensual para mujeres para conectar, compartir y crecer juntas en la fe. Desayuno incluido."
+      },
+      "event6": {
+        "title": "Grupo de Oración de Hombres",
+        "date": "23 de marzo de 2025",
+        "time": "6:00 AM",
+        "location": "Sala de Oración",
+        "description": "Tiempo de oración y devoción matutino para hombres. Café y desayuno ligero incluidos."
+      }
+  },
+  "calendar": {
+    "title": "Calendario de Eventos",
+    "subtitle": "Consulta nuestro calendario completo de eventos y planifica tu visita",
+    "fullView": "Vista Completa del Calendario",
+    "description": "Nuestro calendario interactivo estaría incrustado aquí, permitiéndote ver eventos por día, semana o mes.",
+    "viewButton": "Ver Calendario Completo"
+  },
+
+
+
+  "registration": {
+    "title": "Registro para Eventos",
+    "description": "Muchos de nuestros eventos requieren registro para ayudarnos a prepararnos adecuadamente. ¡El registro es rápido y fácil!",
+    "benefits": {
+      "title": "Beneficios de registrarse para eventos:",
+        "item1":"Recibir recordatorios y actualizaciones del evento",
+        "item2":"Reservar tu lugar para eventos con capacidad limitada",
+        "item3":"Ayudarnos a preparar la cantidad adecuada de materiales",
+        "item4":"Agilizar el registro para eventos especiales"
+    },
+    "questions": "Si tienes preguntas sobre un evento o necesitas ayuda con el registro, por favor contacta nuestra oficina.",
+    "contactButton": "Contáctanos",
+    "featured": {
+      "title": "Registro para Evento Destacado",
+      "eventTitle": "Servicios de Domingo de Resurrección",
+      "eventDate": "12 de abril de 2025 • 8:00 AM, 10:00 AM y 12:00 PM",
+      "eventDescription": "Únete a nosotros para una celebración especial de la resurrección de Cristo. Múltiples servicios disponibles para acomodar a todos.",
+      "registerButton": "Registrarse Ahora"
+    },
+    "viewAllLink": "Ver Todos los Eventos"
+  },
+
+
+
+
+  "groups": {
+    "title": "Grupos Comunitarios",
+    "subtitle": "Nuestros grupos comunitarios se reúnen regularmente durante la semana para comunión, estudio bíblico y oración",
+    "neighborhood": {
+      "title": "Grupos de Vecindario",
+      "description": "Grupos que se reúnen en hogares por toda la ciudad para comunión y estudio bíblico.",
+      "button": "Encontrar un Grupo"
+    },
+    "interest": {
+      "title": "Grupos de Interés",
+      "description": "Grupos formados alrededor de intereses compartidos como senderismo, cocina o discusiones de libros.",
+      "button": "Explorar Grupos"
+    },
+    "support": {
+      "title": "Grupos de Apoyo",
+      "description": "Grupos que brindan cuidado y apoyo para desafíos específicos de la vida.",
+      "button": "Más Información"
+    }
+  }
+}

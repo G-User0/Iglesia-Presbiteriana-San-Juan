@@ -1,0 +1,229 @@
+{
+    "hero": {
+      "title": "Sermons & Teachings",
+      "subtitle": "Watch, listen, and grow through biblical teaching",
+      "imageAlt": "Church sermon",
+      "date": "3 de marzo, 2025",
+      "cta": "Watch Sermons"
+    },
+    "search": {
+      "placeholder": "Search sermons...",
+      "filterButton": "Filter",
+      "filters": {
+        "series": "Series",
+        "speaker": "Speaker",
+        "date": "Date"
+      },
+      "options": {
+        "allSeries": "All Series",
+        "faithThatWorks": "Faith That Works",
+        "spiritualDisciplines": "Spiritual Disciplines",
+        "peaceOfMind": "Peace of Mind",
+        "lifesBigQuestions": "Life's Big Questions",
+        "allSpeakers": "All Speakers",
+        "pastorAlfredo": "Pastor Alfredo Villalta",
+        "pastorVioleta": "Pastor Violeta Hong Jong Ae",
+        "pastorSarah": "Pastor Sarah Johnson",
+        "pastorMichael": "Pastor Michael Brown",
+        "allDates": "All Dates"
+      }
+    },
+    "featured": {
+      "title": "Latest Message",
+      "subtitle": "Watch our most recent sermon from this past Sunday",
+      "imageAlt": "Featured sermon",
+      "sermon": {
+        "title": "Walking in Faith: Trusting God in Uncertain Times",
+        "series": "Faith That Works Series",
+        "speaker": "Pastor John Smith",
+        "date": "March 10, 2025",
+        "scripture": "James 1:2-8",
+        "description": "In this powerful message, Pastor John explores how we can maintain our faith during life's most challenging seasons. Drawing from the book of James, he shares practical wisdom for trusting God when the path ahead seems uncertain."
+      },
+      "buttons": {
+        "share": "Share",
+        "watchNow": "Watch Now"
+      }
+    },
+    "archive": {
+      "title": "Sermon Archive",
+      "subtitle": "Browse our collection of past messages",
+      "buttons": {
+        "watch": "Watch",
+        "listen": "Listen",
+        "notes": "Notes"
+      },
+      "sermons": {
+        "sermon1": {
+          "image": "https://youtu.be/wIKQ8tt8QlE?",
+          "title": "The secret of Victory",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "March 3, 2025",
+          "series": "Spiritual Disciplines",
+          "scripture": "Matthew 6:5-15",
+          "notes": [
+            "Remember to pray daily.",
+            "Prayer transforms the heart."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon2": {
+          "image": "https://youtu.be/CKc7jE3PpH4?",
+          "title": "Jesus Christ is the Lord of the Church",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "February 24, 2025",
+          "series": "Peace of Mind",
+          "scripture": "Philippians 4:4-9",
+          "notes": [
+            "Rejoice in the Lord always.",
+            "Do not be anxious about anything.",
+            "Pray with thanksgiving."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon3": {
+          "image": "https://youtu.be/r0U7xCDkWxA?",
+          "title": "The Life that Transforms Water into...",
+          "speaker": "Pastor Timoteo Kim",
+          "date": "February 17, 2025",
+          "series": "Life's Big Questions",
+          "scripture": "Ephesians 2:10",
+          "notes": [
+            "God has a plan for each of us.",
+            "Discover your purpose through service."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon4": {
+          "image": "https://youtu.be/xlpjYhLu9Eo?",
+          "title": "Beyond the 21 Days of Fasting",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "February 10, 2025",
+          "series": "Worship Series",
+          "scripture": "John 4:23-24",
+          "notes": [
+            "Worship is a lifestyle.",
+            "True worship comes from the heart."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon5": {
+          "image": "https://youtu.be/5HAJZixiabc?",
+          "title": "Priorities on Trial",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "February 3, 2025",
+          "series": "Better Together",
+          "scripture": "Acts 2:42-47",
+          "notes": [
+            "We are better together.",
+            "Fellowship strengthens our faith."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon6": {
+          "image": "https://youtu.be/pPhiVKPa4gM?",
+          "title": "Once Back, Confirm Your Brother",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "January 27, 2025",
+          "series": "Spiritual Warfare",
+          "scripture": "1 Corinthians 10:13",
+          "notes": [
+            "God provides a way out of temptation.",
+            "Stay rooted in the Word."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon7": {
+          "image": "https://youtu.be/3Way0h9emVc?",
+          "title": "Prepare for the Conquest",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "January 20, 2025",
+          "series": "Everyday Faith",
+          "scripture": "2 Corinthians 12:9",
+          "notes": [
+            "God's grace is sufficient for us.",
+            "Embrace your weaknesses."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon8": {
+          "image": "https://youtu.be/fQydBIbcafM?",
+          "title": "The Christmas We Are Waiting For",
+          "speaker": "Pastor Violeta Hong Jong Ae",
+          "date": "January 13, 2025",
+          "series": "Financial Freedom",
+          "scripture": "Matthew 25:14-30",
+          "notes": [
+            "Be a good steward of what God has given you.",
+            "Invest in God's kingdom."
+          ],
+          "noNotes": "No notes for this message."
+        },
+        "sermon9": {
+          "image": "https://youtu.be/CCLaHNBEIYg?",
+          "title": "Salvation for Sinners",
+          "speaker": "Pastor Alfredo Villalta",
+          "date": "January 6, 2025",
+          "series": "Love in Action",
+          "scripture": "Luke 10:25-37",
+          "notes": [
+            "Love is an action, not just a feeling.",
+            "Serve those around you."
+          ],
+          "noNotes": "No notes for this message."
+        }
+      }
+    },
+    "pagination": {
+      "previous": "Previous page",
+      "next": "Next page"
+    },
+    "series": {
+      "title": "Sermon Series",
+      "subtitle": "Explore our teaching series on various topics",
+      "items": {
+        "item1": {
+          "title": "Faith That Works",
+          "count": "6 messages"
+        },
+        "item2": {
+          "title": "Spiritual Disciplines",
+          "count": "8 messages"
+        },
+        "item3": {
+          "title": "Peace of Mind",
+          "count": "5 messages"
+        },
+        "item4": {
+          "title": "Life's Big Questions",
+          "count": "7 messages"
+        },
+        "item5": {
+          "title": "Better Together",
+          "count": "4 messages"
+        },
+        "item6": {
+          "title": "Spiritual Warfare",
+          "count": "6 messages"
+        },
+        "item7": {
+          "title": "Financial Freedom",
+          "count": "5 messages"
+        },
+        "item8": {
+          "title": "Love in Action",
+          "count": "4 messages"
+        }
+      }
+    },
+    "subscribe": {
+      "title": "Never Miss a Message",
+      "subtitle": "Subscribe to our YouTube channel to receive new sermons automatically",
+      "platforms": {
+        "youtube": "YouTube",
+        "applePodcasts": "Apple Podcasts",
+        "spotify": "Spotify"
+      }
+    }
+  }
+  

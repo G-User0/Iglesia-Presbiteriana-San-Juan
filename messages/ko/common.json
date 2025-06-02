@@ -1,0 +1,46 @@
+{
+    "navbar": {
+      "home": "홈",
+      "about": "소개",
+      "services": "예배",
+      "sermons": "설교",
+      "events": "이벤트",
+      "ministries": "사역",
+      "chouse": "교회 하우스",
+      "menu": "메뉴",
+      "contact": "연락처"
+    },
+    "footer": {
+      "titlepage": "세인트 존스 장로교회",
+      "description": "모든 사람이 환영받는 신앙, 희망, 사랑의 장소입니다.",
+      "quickLinks": "빠른 링크",
+      "ministries": "사역",
+      "contactUs": "연락처",
+      "events": "행사",
+      "give": "헌금",
+      "home": "홈",
+      "about": "소개",
+      "services": "예배",
+      "sermons": "설교",
+      "contact": "연락처",
+      "childrenMinistry": "어린이 사역",
+      "youthMinistry": "청소년 사역",
+      "worshipTeam": "예배팀",
+      "communityOutreach": "지역사회 봉사",
+      "prayerMinistry": "기도 사역",
+      "address": "평균 미구엘 이글레시아스 - C. 미구엘 그라우트",
+      "phone": "+51 956 247 195",
+      "email": "contact@psjchurch.org",
+      "copyright": "© 2025 세인트 존스 장로교회. 모든 권리 보유.",
+      "privacyPolicy": "개인정보 처리방침",
+      "termsOfService": "서비스 약관"
+    },
+    "error": {
+      "title": "문제가 발생했습니다",
+      "message": "예기치 않은 오류가 발생했습니다. 다시 시도하거나 홈 페이지로 돌아가세요.",
+      "tryAgain": "다시 시도하기",
+      "goHome": "홈으로 가기"
+    }
+
+  }
+  

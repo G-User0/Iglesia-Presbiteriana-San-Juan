@@ -1,0 +1,153 @@
+{
+    "hero": {
+      "title": "Contáctanos",
+      "subtitle": "Nos encantaría saber de ti. Comunícate con cualquier pregunta o petición de oración."
+    },
+    "info": {
+      "visit": {
+        "title": "Visítanos",
+        "address1": "Av. Miguel iglesias, C. Miguel grau, Lima",
+        "address2": "Ciudad, País 12345",
+        "directions": "Obtener Direcciones"
+      },
+      "call": {
+        "title": "Llámanos",
+        "phone": "+51 123 456 789",
+        "hours": "Lun - Vie: 09:00 -15:00"
+      },
+      "email": {
+        "title": "Envíanos un Email",
+        "address": "info@iglesipsj.org",
+        "response": "Responderemos dentro de 24 horas"
+      },
+      "service": {
+        "title": "Horarios de Servicio",
+        "sunday": "Domingo: 07:30 y 11:30",
+        "wednesday": "Miércoles: 20:00"
+      }
+    },
+    "form": {
+      "title": "Ponte en Contacto",
+      "description": "¡Nos encantaría saber de ti! Completa el formulario a continuación y alguien de nuestro equipo se pondrá en contacto contigo lo antes posible.",
+      "fields": {
+        "name": {
+          "label": "Tu Nombre"
+        },
+        "email": {
+          "label": "Correo Electrónico"
+        },
+        "phone": {
+          "label": "Teléfono"
+        },
+        "subject": {
+          "label": "Asunto",
+          "placeholder": "Selecciona un asunto",
+          "options": {
+            "general": "Consulta General",
+            "prayer": "Petición de Oración",
+            "pastoral": "Cuidado Pastoral",
+            "membership": "Información de Membresía",
+            "volunteering": "Voluntariado",
+            "other": "Otro"
+          }
+        },
+        "message": {
+          "label": "Mensaje"
+        }
+      },
+      "submit": "Enviar Mensaje",
+      "success": {
+        "title": "¡Mensaje Enviado!",
+        "message": "Gracias por contactarnos. Nos pondremos en contacto contigo lo antes posible.",
+        "button": "Enviar Otro Mensaje"
+      }
+    },
+    "social": {
+      "title": "Conéctate Con Nosotros"
+    },
+    "hours": {
+      "title": "Horario de Oficina",
+      "weekdays": "Lunes-Viernes: 9:00 AM - 5:00 PM",
+      "saturday": "Sábado: Cerrado",
+      "sunday": "Domingo: 8:00 AM - 1:00 PM"
+    },
+    "map": {
+      "title": "Encuéntranos",
+      "subtitle": "Estamos convenientemente ubicados en el corazón de la ciudad"
+    },
+    "directions": {
+      "title": "Direcciones",
+      "from": "Desde la Autopista 101:",
+      "steps": {
+        "step1": "Toma la salida 25 hacia Calle Principal",
+        "step2": "Gira a la derecha en Calle Principal",
+        "step3": "Continúa por 2 kilómetros",
+        "step4": "Gira a la izquierda en Avenida Fe",
+        "step5": "La iglesia estará a tu derecha"
+      }
+    },
+    "parking": {
+      "title": "Estacionamiento",
+      "description": "El estacionamiento gratuito está disponible en nuestro lote principal. Estacionamiento adicional se puede encontrar:",
+      "options": {
+        "option1": "En el lote de desbordamiento al otro lado de Avenida Fe",
+        "option2": "A lo largo de Avenida Fe (solo domingo)",
+        "option3": "En el lote del centro comunitario (solo domingo)"
+      },
+      "handicap": "El estacionamiento para discapacitados está disponible cerca de la entrada principal."
+    },
+    "staff": {
+      "title": "Directorio del Personal",
+      "subtitle": "Conoce a nuestro dedicado equipo",
+      "pastors": {
+        "members": {
+          "member1": {
+            "role": "Pastor Principal"
+          },
+          "member2": {
+            "role": "Pastora de Adoración"
+          },
+          "member3": {
+            "role": "Pastora de Jóvenes"
+          },
+          "member4": {
+            "role": "Director del Ministerio de Niños"
+          },
+          "member5": {
+            "role": "Coordinador de extensión"
+          },
+          "member6": {
+            "role": "Administrador de la Iglesia"
+          }
+        }
+      },
+      "contactButton": "Contactar"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Respuestas a preguntas comunes sobre nuestra iglesia",
+      "questions": {
+        "q1": {
+          "question": "¿A qué hora son sus servicios?",
+          "answer": "Tenemos servicios dominicales a las 9:00 AM y 11:00 AM, así como un servicio vespertino los miércoles a las 7:00 PM."
+        },
+        "q2": {
+          "question": "¿Qué debo vestir?",
+          "answer": "No tenemos código de vestimenta. Algunas personas se visten casualmente mientras que otras prefieren un atuendo más formal. Queremos que te sientas cómodo, ¡así que ven como estés!"
+        },
+        "q3": {
+          "question": "¿Tienen programas para niños?",
+          "answer": "Sí, tenemos programas apropiados para cada edad desde guardería hasta 5º grado durante todos nuestros servicios dominicales. Nuestra área de registro para niños se encuentra en el vestíbulo principal."
+        },
+        "q4": {
+          "question": "¿Cómo me hago miembro?",
+          "answer": "Ofrecemos clases de membresía trimestralmente. Estas clases proporcionan una visión general de las creencias, valores y visión de nuestra iglesia. Después de completar la clase, puedes programar una entrevista de membresía con uno de nuestros pastores."
+        },
+        "q5": {
+          "question": "¿Cómo puedo involucrarme?",
+          "answer": "¡Hay muchas maneras de involucrarse! Puedes unirte a un grupo pequeño, servir en un equipo de ministerio o participar en eventos de alcance. Visita nuestra página de Ministerios para obtener más información, o contáctanos para recomendaciones personalizadas."
+        }
+      }
+    }
+  }
+  

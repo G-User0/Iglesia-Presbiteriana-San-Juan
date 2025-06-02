@@ -1,0 +1,111 @@
+{
+    "hero": {
+      "title": "Events & Calendar",
+      "subtitle": "Join us for worship, fellowship, and community outreach"
+    },
+    "upcomingEvents": {
+      "title": "Upcoming Events",
+      "subtitle": "There's always something happening at our church. Find an event and get involved!",
+      "learnMore": "Learn More",
+      "rsvp": "RSVP"
+    },
+    "events": {
+      "event1": {
+        "title": "Sunday Worship Service",
+        "date": "March 17, 2025",
+        "time": "9:00 AM and 11:00 AM",
+        "location": "Main Sanctuary",
+        "description": "Join us for worship, prayer and biblical teaching. Children's programs available at all services."
+      },
+      "event2": {
+        "title": "Bible Study Group",
+        "date": "March 19, 2025",
+        "time": "7:00 PM",
+        "location": "Fellowship Hall",
+        "description": "Mid-week Bible study focused on the book of Romans. Everyone is welcome to join this enriching discussion."
+      },
+      "event3": {
+        "title": "Community Outreach",
+        "date": "March 21, 2025",
+        "time": "9:00 AM",
+        "location": "Community Center",
+        "description": "Volunteering to help distribute food and supplies to families in need in our local community."
+      },
+      "event4": {
+        "title": "Youth Group Meeting",
+        "date": "March 21, 2025",
+        "time": "6:30 PM",
+        "location": "Youth Center",
+        "description": "Fun, fellowship and faith development for students in grades 6-12. Games, worship and small groups."
+      },
+      "event5": {
+        "title": "Women's Breakfast",
+        "date": "March 22, 2025",
+        "time": "8:30 AM",
+        "location": "Fellowship Hall",
+        "description": "Monthly gathering for women to connect, share and grow together in faith. Breakfast included."
+      },
+      "event6": {
+        "title": "Men's Prayer Group",
+        "date": "March 23, 2025",
+        "time": "6:00 AM",
+        "location": "Prayer Room",
+        "description": "Morning prayer and devotion time for men. Coffee and light breakfast included."
+      }
+    },
+    "calendar": {
+      "title": "Event Calendar",
+      "subtitle": "View our full calendar of events and plan your visit",
+      "fullView": "Full Calendar View",
+      "description": "Our interactive calendar would be embedded here, allowing you to view events by day, week, or month.",
+      "viewButton": "View Full Calendar"
+    },
+
+
+
+    "registration": {
+      "title": "Register for Events",
+      "description": "Many of our events require registration to help us prepare adequately. Registration is quick and easy!",
+      "benefits": {
+        "title": "Benefits of registering for events:",
+        "item1": "Receive event reminders and updates",
+        "item2": "Reserve your spot for limited-capacity events",
+        "item3": "Help us prepare the right amount of materials",
+        "item4": "Streamline check-in for special events"
+    },
+      "questions": "If you have questions about an event or need assistance with registration, please contact our church office.",
+      "contactButton": "Contact Us",
+      "featured": {
+        "title": "Featured Event Registration",
+        "eventTitle": "Easter Sunday Services",
+        "eventDate": "April 12, 2025 • 8:00 AM, 10:00 AM & 12:00 PM",
+        "eventDescription": "Join us for a special celebration of Christ's resurrection. Multiple services available to accommodate everyone.",
+        "registerButton": "Register Now"
+      },
+      "viewAllLink": "View All Events"
+    },
+
+
+
+    "groups": {
+      "title": "Community Groups",
+      "subtitle": "Our community groups meet regularly throughout the week for fellowship, Bible study, and prayer",
+      "neighborhood": {
+        "title": "Neighborhood Groups",
+        "description": "Groups that meet in homes throughout the city for fellowship and Bible study.",
+        "button": "Find a Group"
+      },
+      "interest": {
+        "title": "Interest Groups",
+        "description": "Groups formed around shared interests like hiking, cooking, or book discussions.",
+        "button": "Browse Groups"
+      },
+      "support": {
+        "title": "Support Groups",
+        "description": "Groups that provide care and support for specific life challenges.",
+        "button": "Learn More"
+      }
+    }
+  }
+    
+  

@@ -1,0 +1,197 @@
+{
+  "hero": {
+    "title": "Church Houses",
+    "subtitle": "Faith communities that meet in homes for worship, Bible study, and fellowship"
+  },
+  "info": {
+    "title": "Find a Church House",
+    "subtitle": "Our Church Houses meet weekly in different neighborhoods. Find one near you!",
+    "learnMore": "Learn More",
+    "rsvp": "Contact"
+  },
+  "events": {
+    "event1": {
+      "title": "House Church Nuevo Cañete",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Mery Guerrera's House",
+      "description": "A welcoming group for families and people of all ages focused on practical Bible study."
+    },
+    "event2": {
+      "title": "House Church Morcolla",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Justiniano Guerrera's House",
+      "description": "A dynamic group that combines contemporary worship with solid biblical teaching."
+    },
+    "event3": {
+      "title": "House Church Puno",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Francisco Mayta's House",
+      "description": "A group focused on prayer and mutual support, ideal for those seeking spiritual growth."
+    },
+    "event4": {
+      "title": "House Church Arequipa",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Nancy Huillca's House",
+      "description": "A group for young adults combining Bible study with social activities and community service."
+    },
+    "event5": {
+      "title": "House Church Pasco",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Ana Rojas' House",
+      "description": "A group for university students seeking to apply biblical principles to academic and professional challenges."
+    },
+    "event6": {
+      "title": "House Church Mexico",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Frank Naupari's House",
+      "description": "A family group that emphasizes intergenerational discipleship and community."
+    },
+    "event7": {
+      "title": "House Church Huánuco",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Enrique Granadino's House",
+      "description": "A welcoming group for families and people of all ages focused on practical Bible study."
+    },
+    "event8": {
+      "title": "House Church Ica",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "José Cuya's House",
+      "description": "A dynamic group that combines contemporary worship with solid biblical teaching."
+    },
+    "event9": {
+      "title": "House Church Ecuador",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Eduardo Soto's House",
+      "description": "A group focused on prayer and mutual support, ideal for those seeking spiritual growth."
+    },
+    "event10": {
+      "title": "House Church Ancash",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Keren Hurtado's House",
+      "description": "A group for young adults combining Bible study with social activities and community service."
+    },
+    "event11": {
+      "title": "House Church Costa Rica",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Estefany Castro's House",
+      "description": "A group for university students seeking to apply biblical principles to academic and professional challenges."
+    },
+    "event12": {
+      "title": "House Church La Merced",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "David Zila's House",
+      "description": "A family group that emphasizes intergenerational discipleship and community."
+    },
+    "event13": {
+      "title": "House Church Cuzco",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "House -- --",
+      "description": "A welcoming group for families and people of all ages focused on practical Bible study."
+    },
+    "event14": {
+      "title": "House Church Chanchamayo",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00 PM",
+      "location": "Bruno Urruchi's House",
+      "description": "A dynamic group that combines contemporary worship with solid biblical teaching."
+    },
+    "event15": {
+      "title": "House Church Panama",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00 PM",
+      "location": "Billy George's House",
+      "description": "A group focused on prayer and mutual support, ideal for those seeking spiritual growth."
+    },
+    "event16": {
+      "title": "House Church Bolivia",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Abigail Mayta's House",
+      "description": "A group for young adults combining Bible study with social activities and community service."
+    },
+    "event17": {
+      "title": "House Church Amazonas",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "Argenis Rodriguez's House",
+      "description": "A group for university students seeking to apply biblical principles to academic and professional challenges."
+    },
+    "event18": {
+      "title": "House Church San Martín",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "María Aldoradin's House",
+      "description": "A family group that emphasizes intergenerational discipleship and community."
+    },
+    "event19": {
+      "title": "House Church Venezuela",
+      "date": "Weekly",
+      "calendar": "Every Friday",
+      "time": "20:00",
+      "location": "María Aldoradin's House",
+      "description": "A family group that emphasizes intergenerational discipleship and community."
+    }
+  },
+  "beliefs": {
+    "title": "What are Church Houses?",
+    "introduction": "Church Houses are small communities that form a vital part of our church. They are designed to foster deep relationships and spiritual growth.",
+    "subtitle0": "Authentic Community",
+    "subtitle1": "Bible Study",
+    "subtitle2": "Prayer",
+    "subtitle3": "Discipleship",
+    "subtitle4": "Fellowship",
+    "subtitle5": "⚠️ Important ⚠️",
+    "items": {
+      "item0": "Church Houses provide a space to form genuine relationships and experience authentic Christian community.",
+      "item1": "Each meeting includes time dedicated to studying the Bible and applying its teachings to daily life.",
+      "item2": "Prayer is a central component, where members share needs and celebrate answered prayers.",
+      "item3": "Church Houses facilitate spiritual growth through intentional discipleship and accountability.",
+      "item4": "Regular fellowship strengthens bonds between members and creates a sense of belonging.",
+      "item5": "A HOUSE CHURCH is not the same as a CELL. While a cell is only part of a church, a House Church is the entire church on a small scale, with all its ministries functioning in community."
+    },
+    "conclusion": "Joining a Church House is one of the best ways to connect with our faith community and grow in your walk with Christ."
+  },
+  "detail": {
+    "subtitle": "Church House Details",
+    "backToList": "Back to List",
+    "selectPlaceholder": "Select Church House",
+    "contactButton": "Contact",
+    "leadership": "Lay Pastors",
+    "layPastor": "Lay Pastor",
+    "layCoPasstor": "Lay Co-Pastor",
+    "contactLeaders": "Contact Leaders",
+    "nextMeeting": "Next Meeting",
+    "addToCalendar": "Add to Calendar"
+  }
+}
