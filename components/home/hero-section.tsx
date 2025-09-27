@@ -43,17 +43,18 @@ export default function HeroSection() {
             <h1 className="text-4xl md:text-7xl font-bold mb-4">{t("title")}</h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8">{t("subtitle")}</p>
             <div className="flex flex-wrap gap-4">
-              <Button size="lg" className="rounded-full">
-                <Link href="/contact#staff">
-                {t("join")}
-                </Link>
-              </Button>
-              <Button size="lg" variant="outline" className="rounded-full">
-                <Link href="/sermons">
-                {t("latestSermon")}
-                </Link>
-              </Button>
+              <Link href="/contact#staff">
+                <Button size="lg" className="rounded-full">
+                  {t("join")}
+                </Button>
+              </Link>
+              <Link href="/sermons">
+                <Button size="lg" variant="outline" className="rounded-full">
+                  {t("latestSermon")}
+                </Button>
+              </Link>
             </div>
+
           </motion.div>
         </div>
       </div>
