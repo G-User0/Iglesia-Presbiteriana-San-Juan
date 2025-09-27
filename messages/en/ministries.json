@@ -12,41 +12,75 @@
       "getInvolved": "Get Involved"
     },
     "ministries": {
-      "children": {
-        "title": "Children's Ministry",
-        "description": "Nurturing the faith of our youngest members through age-appropriate Bible teaching, worship, and activities."
+      "childrensjm": {
+        "title": "SJM Sunday School Ministry",
+        "description": "Nurturing the faith of our youngest members through biblical teaching, worship, and age-appropriate activities.",
+        "detail": "Our children's ministry at SJM focuses on creating a safe and fun environment where children can learn about Jesus through interactive Bible stories, songs, crafts, and games. Every Sunday, trained teachers guide children through age-appropriate lessons, helping them develop a solid foundation of faith while building lasting friendships with other children in the congregation."
+      },
+      "childrenvmt": {
+        "title": "VMT Sunday School Ministry",
+        "description": "Nurturing the faith of our youngest members through biblical teaching, worship, and age-appropriate activities.",
+        "detail": "At our VMT location, we are dedicated to providing an enriching learning experience for children. We use creative and dynamic methods to teach biblical truths, including drama, music, and hands-on activities. Our goal is for each child to feel loved, valued, and excited about learning more about God while developing fundamental Christian values."
       },
       "youth": {
         "title": "Youth Ministry",
-        "description": "Creating a space where teens can build authentic relationships, grow in their faith, and have fun together."
+        "description": "Creating a space where teenagers can build authentic relationships, grow in their faith, and have fun together.",
+        "detail": "Our youth ministry is designed for teenagers aged 13-18, offering an environment where they can explore their faith in a relevant and contemporary context. Through interactive Bible studies, recreational activities, camps, and community service projects, young people develop Christian leadership while facing the unique challenges of their life stage with the support of dedicated mentors."
       },
       "worship": {
         "title": "Worship Ministry",
-        "description": "Using music and creative arts to lead our congregation in authentic worship experiences."
+        "description": "Using music and creative arts to guide our congregation in authentic worship experiences.",
+        "detail": "Our worship team combines musical talent with hearts dedicated to worship, creating an atmosphere where the congregation can connect deeply with God. We include musicians, singers, sound technicians, and visual artists who work together to facilitate transformative worship moments through contemporary and traditional music, preparing hearts to receive God's Word."
       },
       "adult": {
-        "title": "Adult Discipleship",
-        "description": "Helping adults grow in their faith through Bible studies, small groups, and mentoring relationships."
+        "title": "Training Ministry",
+        "description": "Helping adults grow in their faith through Bible studies, small groups, and mentoring relationships.",
+        "detail": "This ministry focuses on the continuous spiritual growth of adults through structured discipleship programs. We offer thematic Bible studies, spiritual growth groups, leadership seminars, and one-on-one mentoring programs. Our goal is to equip each member to live a mature Christian life and serve effectively in their divine calling."
       },
       "outreach": {
-        "title": "Outreach & Missions",
-        "description": "Sharing God's love with our community and around the world through service and evangelism."
+        "title": "Outreach Ministry",
+        "description": "Sharing God's love with our community and around the world through service and evangelism.",
+        "detail": "Through this ministry, we extend the hands of Christ to our local and international community. We organize social aid campaigns, feeding programs, hospital and prison visits, and missionary projects. We believe the gospel is preached both through words and actions, demonstrating Jesus' practical love to those who need it most."
       },
       "care": {
-        "title": "Care Ministry",
-        "description": "Providing support, prayer, and practical help to those experiencing difficult seasons of life."
+        "title": "Intercession Ministry",
+        "description": "Providing support, prayer, and practical help to those experiencing difficult seasons of life.",
+        "detail": "Our pastoral care ministry offers comprehensive support to members going through crisis, grief, illness, or financial difficulties. We have a team of committed intercessors who regularly pray for the congregation's needs, in addition to providing Christian counseling, home visits, and practical assistance as circumstances require."
       },
       "welcome": {
         "title": "Welcome Team",
-        "description": "Creating a warm, inviting atmosphere for everyone who visits our church."
+        "description": "Creating a warm and welcoming atmosphere for everyone who visits our church.",
+        "detail": "Our welcome team is the first impression visitors receive from our congregation. They are strategically positioned at entrances and common areas to warmly greet each person, provide information about our services and ministries, and ensure that both members and visitors feel valued and comfortable from the moment they arrive."
       },
       "prayer": {
         "title": "Prayer Ministry",
-        "description": "Interceding for the needs of our church, community, and world through regular prayer gatherings."
+        "description": "Interceding for the needs of our church, community, and world through regular prayer meetings.",
+        "detail": "This ministry coordinates and facilitates the congregation's corporate prayer times. We organize prayer vigils, intercession chains for specific needs, and prayer sessions before important events. We believe in the transformative power of prayer and maintain a constant commitment to seek God's will for our church and community through fervent intercession."
       },
       "hospitality": {
         "title": "Hospitality Ministry",
-        "description": "Building community through shared meals, events, and fellowship opportunities."
+        "description": "Building community through shared meals, events, and fellowship opportunities.",
+        "detail": "Through social events, community meals, and special celebrations, this ministry strengthens the bonds of brotherhood within the congregation. We organize Sunday lunches, fellowship dinners, birthday celebrations, and seasonal events that allow families to get to know each other better and develop genuine friendships that transcend the walls of the temple."
+      },
+      "chouse": {
+        "title": "House Church Ministry",
+        "description": "Extending the church beyond the temple through family gatherings in homes.",
+        "detail": "House churches represent the natural extension of our congregation into the community. In volunteer homes, we facilitate weekly meetings for Bible study, prayer, and fellowship in a more intimate and familiar environment. These meetings allow for more personalized discipleship and create opportunities for non-believing neighbors and friends to experience Christian love in a less formal setting."
+      },
+      "comunications": {
+        "title": "Communications Ministry",
+        "description": "Keeping the congregation informed and connected through various communication media.",
+        "detail": "Our communications team manages all the church's information channels, including social media, newsletters, website, and announcements during services. We ensure that important information reaches all members in a timely and clear manner, while promoting the congregation's events and ministries both internally and externally in the community."
+      },
+      "mission": {
+        "title": "Mission Ministry",
+        "description": "Supporting and sending missionaries to expand God's Kingdom locally and internationally.",
+        "detail": "This ministry coordinates our local and international missionary efforts. We financially and spiritually support missionaries in the field, organize short-term missionary trips, and develop strategic partnerships with missionary organizations. We also focus on creating missionary awareness within the congregation and preparing those who feel called to cross-cultural ministry."
+      },
+      "logist": {
+        "title": "Logistics Ministry",
+        "description": "Ensuring all technical and logistical needs of the church function efficiently.",
+        "detail": "Our logistics team handles all operational aspects of the church, from facility maintenance to equipment setup for special events. This includes responsibilities such as cleaning, security, audiovisual equipment management, transportation for activities, and coordination of material resources so that all ministries can function without interruptions."
       }
     },
     "featured": {

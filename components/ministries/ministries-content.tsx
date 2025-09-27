@@ -1,16 +1,20 @@
 "use client"
 
+import { useState } from "react"
 import { motion } from "framer-motion"
 import Image from "next/image"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { Users, Heart, Music, BookOpen, Baby, UserPlus, Globe, Coffee } from "lucide-react"
+import { Users, Heart, Music, BookOpen, Baby, UserPlus, Globe, Coffee, Plane, BookmarkCheckIcon, HousePlus, MicVocalIcon } from "lucide-react"
 import { useTranslations } from "next-intl"
 
 export default function MinistriesContent() {
   const t = useTranslations("ministries")
-
+  const [open, setOpen] = useState(false)
+  // const [selectedMinistry, setSelectedMinistry] = useState(null)
+  const [selectedMinistry, setSelectedMinistry] = useState<Ministry | null>(null)
+  
   const container = {
     hidden: { opacity: 0 },
     show: {
@@ -25,6 +29,16 @@ export default function MinistriesContent() {
     hidden: { opacity: 0, y: 20 },
     show: { opacity: 1, y: 0, transition: { duration: 0.5 } },
   }
+
+
+
+  type Ministry = {
+  title: string
+  description: string
+  detail: string
+  icon: React.ElementType
+  image: string
+}
 
   return (
     <div className="flex flex-col min-h-screen">
@@ -71,65 +85,109 @@ export default function MinistriesContent() {
           >
             {[
               {
-                title: t("ministries.children.title"),
-                description: t("ministries.children.description"),
+                title: t("ministries.childrensjm.title"),
+                description: t("ministries.childrensjm.description"),
+                detail: t("ministries.childrensjm.detail"),
                 icon: Baby,
-                image: "children",
+                image: "/ministries/escuelasjm.webp",
+              },
+              {
+                title: t("ministries.childrenvmt.title"),
+                description: t("ministries.childrenvmt.description"),
+                detail: t("ministries.childrenvmt.detail"),
+                icon: Baby,
+                image: "/ministries/escuelavmt.webp",
               },
               {
                 title: t("ministries.youth.title"),
                 description: t("ministries.youth.description"),
+                detail: t("ministries.youth.detail"),
                 icon: Users,
-                image: "youth",
+                image: "/ministries/adolescentes.webp",
               },
               {
                 title: t("ministries.worship.title"),
                 description: t("ministries.worship.description"),
+                detail: t("ministries.worship.detail"),
                 icon: Music,
-                image: "worship",
+                image: "/ministries/alabanza.webp",
               },
               {
                 title: t("ministries.adult.title"),
                 description: t("ministries.adult.description"),
+                detail: t("ministries.adult.detail"),
                 icon: BookOpen,
-                image: "adult",
+                image: "/ministries/entrenamiento.webp",
               },
               {
                 title: t("ministries.outreach.title"),
                 description: t("ministries.outreach.description"),
+                detail: t("ministries.outreach.detail"),
                 icon: Globe,
-                image: "outreach",
+                image: "/ministries/solidaridad.webp",
               },
               {
                 title: t("ministries.care.title"),
                 description: t("ministries.care.description"),
+                detail: t("ministries.care.detail"),
                 icon: Heart,
-                image: "care",
+                image: "/ministries/intercesión.webp",
               },
               {
                 title: t("ministries.welcome.title"),
                 description: t("ministries.welcome.description"),
+                detail: t("ministries.welcome.detail"),
                 icon: UserPlus,
-                image: "welcome",
+                image: "/ministries/bienvenida.webp",
               },
               {
                 title: t("ministries.prayer.title"),
                 description: t("ministries.prayer.description"),
+                detail: t("ministries.prayer.detail"),
                 icon: Heart,
-                image: "prayer",
+                image: "/ministries/culto.webp",
               },
               {
                 title: t("ministries.hospitality.title"),
                 description: t("ministries.hospitality.description"),
+                detail: t("ministries.hospitality.detail"),
                 icon: Coffee,
-                image: "hospitality",
+                image: "/ministries/hospitalidad.webp",
+              },
+              {
+                title: t("ministries.chouse.title"),
+                description: t("ministries.chouse.description"),
+                detail: t("ministries.chouse.detail"),
+                icon: HousePlus,
+                image: "/ministries/chouse.webp",
+              },
+              {
+                title: t("ministries.comunications.title"),
+                description: t("ministries.comunications.description"),
+                detail: t("ministries.comunications.detail"),
+                icon: MicVocalIcon,
+                image: "/ministries/comunicaciones.webp",
+              },
+              {
+                title: t("ministries.mission.title"),
+                description: t("ministries.mission.description"),
+                detail: t("ministries.mission.detail"),
+                icon: Plane,
+                image: "/ministries/misión.webp",
+              },
+              {
+                title: t("ministries.logist.title"),
+                description: t("ministries.logist.description"),
+                detail: t("ministries.logist.detail"),
+                icon: BookmarkCheckIcon,
+                image: "/ministries/logistica.webp",
               },
             ].map((ministry, i) => (
               <motion.div key={i} variants={item}>
                 <Card className="border-primary/10 shadow-md overflow-hidden h-full">
                   <div className="relative h-48 bg-white">
                     <Image
-                      src="/road.svg"
+                      src={ministry.image}
                       alt={ministry.title}
                       fill
                       className="object-cover"
@@ -145,9 +203,16 @@ export default function MinistriesContent() {
                     <p className="text-muted-foreground mb-4">{ministry.description}</p>
                     <div className="flex justify-between">
                       <Button variant="outline" size="sm" asChild>
-                        <Link href={`/ministries/${ministry.title.toLowerCase().replace(/\s+/g, "-")}`}>
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          onClick={() => {
+                            setSelectedMinistry(ministry)
+                            setOpen(true)
+                          }}
+                        >
                           {t("common.learnMore")}
-                        </Link>
+                        </Button>
                       </Button>
                       <Button size="sm" asChild>
                         <Link href={`/contact?subject=Ministry%20Interest`}>{t("common.getInvolved")}</Link>
@@ -156,9 +221,33 @@ export default function MinistriesContent() {
                   </CardContent>
                 </Card>
               </motion.div>
-            ))}
+            )
+            )}
           </motion.div>
         </div>
+          {open && selectedMinistry && (
+            <div
+              className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 dark:bg-black/70"
+              style={{ backdropFilter: "blur(2px)" }}
+              onClick={() => setOpen(false)}
+            >
+              <div
+                className="bg-background text-foreground rounded-lg shadow-lg max-w-md w-full p-6 relative"
+                onClick={e => e.stopPropagation()}
+              >
+                <div className="relative w-full h-52 mb-4">
+                  <Image
+                    src={selectedMinistry.image}
+                    alt={selectedMinistry.title}
+                    fill
+                    className="object-cover rounded"
+                  />
+                </div>
+                <h2 className="text-2xl font-bold mb-2">{selectedMinistry.title}</h2>
+                <p className="text-muted-foreground mb-2">{selectedMinistry.detail}</p>
+              </div>
+            </div>
+          )}
       </section>
 
       {/* Featured Ministry */}
@@ -188,7 +277,7 @@ export default function MinistriesContent() {
                 <p>{t("featured.description")}</p>
                 <p>{t("featured.gatherings.title")}</p>
                 <ul className="list-disc pl-5 space-y-2">
-                  <li>{t("featured.gatherings.item1")}</li>
+                  {/* <li>{t("featured.gatherings.item1")}</li> */}
                   <li>{t("featured.gatherings.item2")}</li>
                   <li>{t("featured.gatherings.item3")}</li>
                   <li>{t("featured.gatherings.item4")}</li>

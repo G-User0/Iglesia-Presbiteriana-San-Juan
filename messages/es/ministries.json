@@ -12,55 +12,89 @@
       "getInvolved": "Involúcrate"
     },
     "ministries": {
-      "children": {
-        "title": "Ministerio Infantil",
-        "description": "Nutriendo la fe de nuestros miembros más jóvenes a través de enseñanza bíblica, adoración y actividades apropiadas para su edad."
+      "childrensjm": {
+        "title": "Ministerio de Escuela Dominical SJM",
+        "description": "Nutriendo la fe de nuestros miembros más pequeños a través de enseñanza bíblica, adoración y actividades apropiadas para su edad.",
+        "detail": "Nuestro ministerio de niños en SJM se enfoca en crear un ambiente seguro y divertido donde los niños pueden aprender sobre Jesús a través de historias bíblicas interactivas, canciones, manualidades y juegos. Cada domingo, maestros capacitados guían a los niños en lecciones adaptadas a su edad, ayudándoles a desarrollar una base sólida de fe mientras construyen amistades duraderas con otros niños de la congregación."
+      },
+      "childrenvmt": {
+        "title": "Ministerio de Escuela Dominical VMT",
+        "description": "Nutriendo la fe de nuestros miembros más pequeños a través de enseñanza bíblica, adoración y actividades apropiadas para su edad.",
+        "detail": "En nuestra sede de VMT, nos dedicamos a proporcionar una experiencia de aprendizaje enriquecedora para los niños. Utilizamos métodos creativos y dinámicos para enseñar las verdades bíblicas, incluyendo teatro, música y actividades prácticas. Nuestro objetivo es que cada niño se sienta amado, valorado y emocionado por conocer más sobre Dios mientras desarrolla valores cristianos fundamentales."
       },
       "youth": {
-        "title": "Ministerio Juvenil",
-        "description": "Creando un espacio donde los adolescentes pueden construir relaciones auténticas, crecer en su fe y divertirse juntos."
+        "title": "Ministerio de Adolescentes",
+        "description": "Creando un espacio donde los adolescentes pueden construir relaciones auténticas, crecer en su fe y divertirse juntos.",
+        "detail": "Nuestro ministerio juvenil está diseñado para adolescentes de 13 a 18 años, ofreciendo un ambiente donde pueden explorar su fe en un contexto relevante y contemporáneo. A través de estudios bíblicos interactivos, actividades recreativas, campamentos y proyectos de servicio comunitario, los jóvenes desarrollan liderazgo cristiano mientras enfrentan los desafíos únicos de su etapa de vida con el apoyo de mentores dedicados."
       },
       "worship": {
-        "title": "Ministerio de Adoración",
-        "description": "Usando música y artes creativas para guiar a nuestra congregación en experiencias de adoración auténticas."
+        "title": "Ministerio de Alabanza",
+        "description": "Usando música y artes creativas para guiar a nuestra congregación en experiencias de adoración auténticas.",
+        "detail": "Nuestro equipo de alabanza combina talento musical con corazones dedicados a la adoración, creando un ambiente donde la congregación puede conectarse profundamente con Dios. Incluimos músicos, cantantes, técnicos de sonido y artistas visuales que trabajan juntos para facilitar momentos de adoración transformadores a través de música contemporánea y tradicional, preparando los corazones para recibir la Palabra de Dios."
       },
       "adult": {
-        "title": "Discipulado de Adultos",
-        "description": "Ayudando a los adultos a crecer en su fe a través de estudios bíblicos, grupos pequeños y relaciones de mentoría."
+        "title": "Ministerio de Entrenamiento",
+        "description": "Ayudando a los adultos a crecer en su fe a través de estudios bíblicos, grupos pequeños y relaciones de mentoría.",
+        "detail": "Este ministerio se enfoca en el crecimiento espiritual continuo de los adultos mediante programas estructurados de discipulado. Ofrecemos estudios bíblicos temáticos, grupos de crecimiento espiritual, seminarios de liderazgo y programas de mentoría uno a uno. Nuestro objetivo es equipar a cada miembro para vivir una vida cristiana madura y servir efectivamente en su llamado divino."
       },
       "outreach": {
-        "title": "Alcance y Misiones",
-        "description": "Compartiendo el amor de Dios con nuestra comunidad y alrededor del mundo a través del servicio y evangelismo."
+        "title": "Ministerio de Solidaridad",
+        "description": "Compartiendo el amor de Dios con nuestra comunidad y alrededor del mundo a través del servicio y evangelismo.",
+        "detail": "A través de este ministerio, extendemos las manos de Cristo a nuestra comunidad local e internacional. Organizamos campañas de ayuda social, programas de alimentación, visitas a hospitales y cárceles, y proyectos misioneros. Creemos que el evangelio se predica tanto con palabras como con acciones, demostrando el amor práctico de Jesús a quienes más lo necesitan."
       },
       "care": {
-        "title": "Ministerio de Cuidado",
-        "description": "Brindando apoyo, oración y ayuda práctica a quienes están experimentando temporadas difíciles de la vida."
+        "title": "Ministerio de Intercesión",
+        "description": "Brindando apoyo, oración y ayuda práctica a quienes están experimentando temporadas difíciles de la vida.",
+        "detail": "Nuestro ministerio de cuidado pastoral ofrece apoyo integral a los miembros que atraviesan crisis, duelo, enfermedad o dificultades económicas. Contamos con un equipo de intercesores comprometidos que oran regularmente por las necesidades de la congregación, además de brindar consejería cristiana, visitas domiciliarias y asistencia práctica según las circunstancias lo requieran."
       },
       "welcome": {
         "title": "Equipo de Bienvenida",
-        "description": "Creando una atmósfera cálida y acogedora para todos los que visitan nuestra iglesia."
+        "description": "Creando una atmósfera cálida y acogedora para todos los que visitan nuestra iglesia.",
+        "detail": "Nuestro equipo de bienvenida es la primera impresión que reciben los visitantes de nuestra congregación. Están estratégicamente ubicados en las entradas y áreas comunes para saludar calurosamente a cada persona, proporcionar información sobre nuestros servicios y ministerios, y asegurar que tanto miembros como visitantes se sientan valorados y cómodos desde el momento en que llegan."
       },
       "prayer": {
-        "title": "Ministerio de Oración",
-        "description": "Intercediendo por las necesidades de nuestra iglesia, comunidad y mundo a través de reuniones regulares de oración."
+        "title": "Ministerio de Culto",
+        "description": "Intercediendo por las necesidades de nuestra iglesia, comunidad y mundo a través de reuniones regulares de oración.",
+        "detail": "Este ministerio coordina y facilita los tiempos de oración corporativa de la congregación. Organizamos vigilias de oración, cadenas de intercesión por necesidades específicas, y sesiones de oración antes de eventos importantes. Creemos en el poder transformador de la oración y mantenemos un compromiso constante de buscar la voluntad de Dios para nuestra iglesia y comunidad a través de la intercesión ferviente."
       },
       "hospitality": {
         "title": "Ministerio de Hospitalidad",
-        "description": "Construyendo comunidad a través de comidas compartidas, eventos y oportunidades de compañerismo."
+        "description": "Construyendo comunidad a través de comidas compartidas, eventos y oportunidades de compañerismo.",
+        "detail": "A través de eventos sociales, comidas comunitarias y celebraciones especiales, este ministerio fortalece los lazos de hermandad dentro de la congregación. Organizamos almuerzos dominicales, cenas de confraternidad, celebraciones de cumpleaños y eventos estacionales que permiten a las familias conocerse mejor y desarrollar amistades genuinas que trascienden los muros del templo."
+      },
+      "chouse": {
+        "title": "Ministerio de Casa Iglesia",
+        "description": "Extendiendo la iglesia más allá del templo a través de reuniones familiares en hogares.",
+        "detail": "Las casas iglesia representan la extensión natural de nuestra congregación hacia la comunidad. En hogares voluntarios, facilitamos reuniones semanales de estudio bíblico, oración y compañerismo en un ambiente más íntimo y familiar. Estas reuniones permiten un discipulado más personalizado y crean oportunidades para que los vecinos y amigos no creyentes experimenten el amor cristiano en un entorno menos formal."
+      },
+      "comunications": {
+        "title": "Ministerio de Comunicaciones",
+        "description": "Manteniendo a la congregación informada y conectada a través de diversos medios de comunicación.",
+        "detail": "Nuestro equipo de comunicaciones gestiona todos los canales informativos de la iglesia, incluyendo redes sociales, boletines, página web y anuncios durante los servicios. Nos aseguramos de que la información importante llegue a todos los miembros de manera oportuna y clara, mientras promovemos los eventos y ministerios de la congregación tanto interna como externamente en la comunidad."
+      },
+      "mission": {
+        "title": "Ministerio de Misión",
+        "description": "Apoyando y enviando misioneros para expandir el Reino de Dios a nivel local e internacional.",
+        "detail": "Este ministerio coordina nuestros esfuerzos misioneros tanto locales como internacionales. Apoyamos financiera y espiritualmente a misioneros en el campo, organizamos viajes misioneros de corto plazo, y desarrollamos asociaciones estratégicas con organizaciones misioneras. También nos enfocamos en crear conciencia misionera dentro de la congregación y preparar a aquellos que sienten el llamado al ministerio transcultural."
+      },
+      "logist": {
+        "title": "Ministerio de Logística",
+        "description": "Asegurando que todas las necesidades técnicas y logísticas de la iglesia funcionen eficientemente.",
+        "detail": "Nuestro equipo de logística maneja todos los aspectos operativos de la iglesia, desde el mantenimiento de las instalaciones hasta el montaje de equipos para eventos especiales. Incluye responsabilidades como limpieza, seguridad, manejo de equipos audiovisuales, transporte para actividades, y coordinación de recursos materiales para que todos los ministerios puedan funcionar sin interrupciones."
       }
     },
     "featured": {
       "badge": "Ministerio Destacado",
-      "title": "Ministerio Juvenil",
-      "description": "Nuestro Ministerio Juvenil proporciona un ambiente seguro y divertido donde los adolescentes en grados 6-12 pueden construir relaciones significativas, explorar su fe y descubrir su propósito dado por Dios.",
+      "title": "Ministerio de Adolescentes",
+      "description": "Nuestro Ministerio Juvenil proporciona un ambiente seguro y divertido donde los adolescentes en grados 13-18 pueden construir relaciones significativas, explorar su fe y descubrir su propósito dado por Dios.",
       "gatherings": {
         "title": "Las reuniones semanales incluyen:",
         "item1": "Grupos pequeños los domingos por la mañana (9:45 AM)",
-        "item2": "Servicio juvenil los miércoles por la noche (6:30 PM)",
+        "item2": "Servicio juvenil los domingos por la tarde (15:00)",
         "item3": "Eventos especiales mensuales y proyectos de servicio",
         "item4": "Viajes misioneros anuales y campamento de verano"
       },
-      "leadership": "Dirigido por el Pastor Michael Brown y un equipo dedicado de voluntarios adultos, nuestro ministerio juvenil está comprometido a ayudar a los adolescentes a construir una base sólida en Cristo que durará toda la vida.",
+      "leadership": "Dirigido por el Pastor Alfredo Villalta y un equipo dedicado de voluntarios adultos, nuestro ministerio juvenil está comprometido a ayudar a los adolescentes a construir una base sólida en Cristo que durará toda la vida.",
       "contactButton": "Contactar al Pastor Juvenil"
     },
     "volunteer": {
