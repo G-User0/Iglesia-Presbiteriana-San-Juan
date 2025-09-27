@@ -8,16 +8,14 @@ export default createMiddleware({
   defaultLocale,
   // Reducir el tamaño de la cookie guardando solo el locale
   localePrefix: 'as-needed',
-  // Optimizar el tamaño de la cookie usando un nombre más corto
+  // Habilitar detección de idioma desde cookies/headers
   localeDetection: true,
-  pathnames: {
-    '/': '/',
-    // Añade más rutas si es necesario
-  },
+  // Opcional: personalizar el nombre de la cookie
+  // alternateLinks: false, // Si tienes problemas con links alternos
 });
  
 export const config = {
   // Hacer coincidir solo rutas internacionalizadas
-   matcher: ['/((?!api|_next|.*\\..*).*)'],
-  // Ignorar rutas que no necesitan internacionalización
+  matcher: ['/((?!api|_next|_vercel|.*\\..*).*)'],
+  // Excluir más rutas específicas de Vercel si es necesario
 };

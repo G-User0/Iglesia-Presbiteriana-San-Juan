@@ -20,8 +20,26 @@ export default function LanguageSwitcher() {
 
   const switchLocale = (newLocale: string) => {
     startTransition(() => {
-      const newPathname = `/${newLocale}${pathname.startsWith(`/${locale}`) ? pathname.slice(locale.length + 1) : pathname}`; // Remove the current locale from the pathname
-      router.replace(newPathname); // Update the URL to include the new locale
+      // Método 1: Usar document.cookie para forzar la persistencia
+      document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=${60 * 60 * 24 * 365}; SameSite=lax`;
+      
+      // Método 2: Construir la nueva ruta correctamente
+      // Remover el locale actual del pathname si existe
+      let newPathname = pathname;
+      
+      // Si el pathname comienza con un locale, removerlo
+      if (pathname.startsWith(`/${locale}`)) {
+        newPathname = pathname.slice(`/${locale}`.length) || '/';
+      }
+      
+      // Agregar el nuevo locale
+      const finalPath = `/${newLocale}${newPathname === '/' ? '' : newPathname}`;
+      
+      // Usar router.push en lugar de router.replace para mejor UX
+      router.push(finalPath);
+      
+      // Opcional: forzar un refresh para asegurar que el cambio persista
+      // router.refresh();
     })
   }
 
