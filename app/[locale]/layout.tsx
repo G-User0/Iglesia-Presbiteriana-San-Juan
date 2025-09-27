@@ -6,6 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import Navbar from "@/components/navbar"
 import { Footer } from "@/components/footer"
 import "@/app/globals.css"
+import { Analytics } from "@vercel/analytics/next"
 
 const mulish = Mulish({
   subsets: ["latin"],
@@ -53,6 +54,7 @@ export default async function RootLayout(props: {
           <NextIntlClientProvider locale={locale} messages={messages}>
             <Navbar />
             <main>{children}</main>
+            <Analytics />
             <Footer />
           </NextIntlClientProvider>
         </ThemeProvider>
