@@ -146,16 +146,28 @@ export default function WelcomeSection() {
                   </CardDescription>
                 </CardHeader>
                 
-                <CardContent className="space-y-4 flex-grow">
-                  <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
-                    {t("getInvolvedCh.ministry1")}
-                  </Button>
-                  <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
-                    {t("getInvolvedCh.ministry2")}
-                  </Button>
-                  <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
-                    {t("getInvolvedCh.ministry3")}
-                  </Button>
+               <CardContent className="space-y-4 flex-grow">
+                  <div>
+                    <Link href="/chouse-details/4">
+                      <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
+                        {t("getInvolvedCh.ministry1")}
+                      </Button>
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/chouse-details/6">
+                      <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
+                        {t("getInvolvedCh.ministry2")}
+                      </Button>
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/chouse-details/15">
+                      <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
+                        {t("getInvolvedCh.ministry3")}
+                      </Button>
+                    </Link>
+                  </div>
                 </CardContent>
                 
                 <CardFooter className="mt-auto">
@@ -188,15 +200,27 @@ export default function WelcomeSection() {
                 </CardHeader>
                 
                 <CardContent className="space-y-4 flex-grow">
-                  <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
-                    {t("getInvolved.ministry1")}
-                  </Button>
-                  <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
-                    {t("getInvolved.ministry2")}
-                  </Button>
-                  <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
-                    {t("getInvolved.ministry3")}
-                  </Button>
+                  <div>
+                    <Link href="/ministries">
+                      <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
+                        {t("getInvolved.ministry1")}
+                      </Button>
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/ministries">
+                      <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
+                        {t("getInvolved.ministry2")}
+                      </Button>
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/ministries">
+                      <Button variant="secondary" className="w-full relative overflow-hidden group-hover:bg-secondary/80 transition-colors duration-300">
+                        {t("getInvolved.ministry3")}
+                      </Button>
+                    </Link>
+                  </div>
                 </CardContent>
                 
                 <CardFooter className="mt-auto">
