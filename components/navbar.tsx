@@ -1,8 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import Link from "next/link"
-import { usePathname } from "next/navigation"
+import { Link, usePathname } from "@/navigation"
 import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
 import * as icons from "lucide-react"

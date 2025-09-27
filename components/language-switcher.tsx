@@ -2,7 +2,7 @@
 
 import { useTransition } from "react"
 import { useLocale } from "next-intl"
-import { useRouter, usePathname } from 'next/navigation';
+import { useRouter, usePathname } from '@/navigation';
 import { Button } from "@/components/ui/button"
 import { Globe } from "lucide-react"
 import {
