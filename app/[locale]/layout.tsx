@@ -1,25 +1,22 @@
-import type React from "react";
-import { Mulish } from "next/font/google";
-import { getTranslations, getMessages } from "next-intl/server";
-import { NextIntlClientProvider } from "next-intl";
-// import { locales } from "@/next-intl.config";
-import { ThemeProvider } from "@/components/theme-provider";
-import Navbar from "@/components/navbar";
-import { Footer } from "@/components/footer";
-// import { PerformanceMonitor } from "@/components/performance-monitor";
-import "@/app/globals.css";
-import { RoutePrefetcher } from "@/components/route-prefetcher";
+import type React from "react"
+import { Mulish } from "next/font/google"
+import { getTranslations, getMessages } from "next-intl/server"
+import { NextIntlClientProvider } from "next-intl"
+import { ThemeProvider } from "@/components/theme-provider"
+import Navbar from "@/components/navbar"
+import { Footer } from "@/components/footer"
+import "@/app/globals.css"
 
 const mulish = Mulish({
   subsets: ["latin"],
   display: "swap",
   preload: true,
   variable: "--font-mulish",
-});
+})
 
 export async function generateMetadata(props: { params: Promise<{ locale: string }> }) {
-  const { locale } = await props.params;
-  const t = await getTranslations({ locale, namespace: "metadata" });
+  const { locale } = await props.params
+  const t = await getTranslations({ locale, namespace: "metadata" })
 
   return {
     title: {
@@ -38,16 +35,16 @@ export async function generateMetadata(props: { params: Promise<{ locale: string
       description: t("description"),
       siteName: t("siteName"),
     },
-  };
+  }
 }
 
 export default async function RootLayout(props: {
-  children: React.ReactNode;
-  params: Promise<{ locale: string }>;
+  children: React.ReactNode
+  params: Promise<{ locale: string }>
 }) {
-  const { children } = props;
-  const { locale } = await props.params;
-  const messages = await getMessages({ locale });
+  const { children } = props
+  const { locale } = await props.params
+  const messages = await getMessages({ locale })
 
   return (
     <html lang={locale} suppressHydrationWarning className={mulish.variable}>
@@ -57,11 +54,9 @@ export default async function RootLayout(props: {
             <Navbar />
             <main>{children}</main>
             <Footer />
-            {/* {process.env.NODE_ENV === "development" && <PerformanceMonitor />} */}
-            <RoutePrefetcher />
           </NextIntlClientProvider>
         </ThemeProvider>
       </body>
     </html>
-  );
+  )
 }
