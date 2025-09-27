@@ -1,47 +1,29 @@
-"use client"
+"use client";
 
-import { useTransition } from "react"
-import { useLocale } from "next-intl"
-import { useRouter, usePathname } from '@/navigation';
-import { Button } from "@/components/ui/button"
-import { Globe } from "lucide-react"
+import { useTransition } from "react";
+import { useLocale } from "next-intl";
+import { useRouter, usePathname } from "@/navigation";
+import { Button } from "@/components/ui/button";
+import { Globe } from "lucide-react";
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu"
+} from "@/components/ui/dropdown-menu";
 
 export default function LanguageSwitcher() {
-  const locale = useLocale()
-  const router = useRouter()
-  const pathname = usePathname()
-  const [isPending, startTransition] = useTransition()
+  const locale = useLocale();
+  const router = useRouter();
+  const pathname = usePathname();
+  const [isPending, startTransition] = useTransition();
 
   const switchLocale = (newLocale: string) => {
     startTransition(() => {
-      // Método 1: Usar document.cookie para forzar la persistencia
-      document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=${60 * 60 * 24 * 365}; SameSite=lax`;
-      
-      // Método 2: Construir la nueva ruta correctamente
-      // Remover el locale actual del pathname si existe
-      let newPathname = pathname;
-      
-      // Si el pathname comienza con un locale, removerlo
-      if (pathname.startsWith(`/${locale}`)) {
-        newPathname = pathname.slice(`/${locale}`.length) || '/';
-      }
-      
-      // Agregar el nuevo locale
-      const finalPath = `/${newLocale}${newPathname === '/' ? '' : newPathname}`;
-      
-      // Usar router.push en lugar de router.replace para mejor UX
-      router.push(finalPath);
-      
-      // Opcional: forzar un refresh para asegurar que el cambio persista
-      // router.refresh();
-    })
-  }
+      // 👇 Esto reemplaza el locale actual por el nuevo automáticamente
+      router.replace({ pathname }, { locale: newLocale });
+    });
+  };
 
   return (
     <DropdownMenu>
@@ -58,16 +40,25 @@ export default function LanguageSwitcher() {
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
-        <DropdownMenuItem onClick={() => switchLocale("es")} className={locale === "es" ? "bg-muted" : ""}>
+        <DropdownMenuItem
+          onClick={() => switchLocale("es")}
+          className={locale === "es" ? "bg-muted" : ""}
+        >
           Español
         </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => switchLocale("en")} className={locale === "en" ? "bg-muted" : ""}>
+        <DropdownMenuItem
+          onClick={() => switchLocale("en")}
+          className={locale === "en" ? "bg-muted" : ""}
+        >
           English
         </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => switchLocale("ko")} className={locale === "ko" ? "bg-muted" : ""}>
+        <DropdownMenuItem
+          onClick={() => switchLocale("ko")}
+          className={locale === "ko" ? "bg-muted" : ""}
+        >
           한국어
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
-  )
+  );
 }
