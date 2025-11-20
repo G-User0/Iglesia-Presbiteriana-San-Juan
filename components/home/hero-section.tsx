@@ -32,8 +32,8 @@ export default function HeroSection() {
     <section
       id="home"
       className="relative min-h-screen flex items-center bg-gradient-to-r from-primary/10 to-background pt-4">
-      <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 lg:grid-cols-1 gap-8">
+      <div className="container mx-auto px-0">
+        <div className="gap-8">
           <motion.div
             initial={{ opacity: 0, x: -50 }}
             animate={{ opacity: 1, x: 0 }}

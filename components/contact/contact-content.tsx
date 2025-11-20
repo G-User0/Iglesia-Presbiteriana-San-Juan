@@ -206,27 +206,13 @@ export default function ContactPage() {
                       href="#"
                       className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary hover:bg-primary/20 transition-colors"
                     >
-                      <Instagram className="h-5 w-5" />
-                      <span className="sr-only">Instagram</span>
-                    </Link>
-                    <Link
-                      href="#"
-                      className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary hover:bg-primary/20 transition-colors"
-                    >
-                      <Twitter className="h-5 w-5" />
-                      <span className="sr-only">Twitter</span>
-                    </Link>
-                    <Link
-                      href="#"
-                      className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary hover:bg-primary/20 transition-colors"
-                    >
                       <Youtube className="h-5 w-5" />
                       <span className="sr-only">YouTube</span>
                     </Link>
                   </div>
                 </div>
 
-                <div>
+                {/* <div>
                   <h3 className="text-xl font-bold mb-2">{t("hours.title")}</h3>
                   <p className="text-muted-foreground">
                     {t("hours.weekdays")}
@@ -235,7 +221,7 @@ export default function ContactPage() {
                     <br />
                     {t("hours.sunday")}
                   </p>
-                </div>
+                </div> */}
               </div>
             </motion.div>
 
@@ -287,8 +273,8 @@ export default function ContactPage() {
                           {t("form.fields.subject.label")} <span className="text-red-500">*</span>
                         </label>
                         <Select value={formState.subject} onValueChange={handleSelectChange} required>
-                          <SelectTrigger id="subject">
-                            <SelectValue placeholder={t("form.fields.subject.placeholder")} />
+                          <SelectTrigger id="subject" className="w-full">
+                            <SelectValue placeholder={t("form.fields.subject.placeholder")}/>
                           </SelectTrigger>
                           <SelectContent>
                             <SelectItem value="General Inquiry">{t("form.fields.subject.options.general")}</SelectItem>
@@ -374,7 +360,7 @@ export default function ContactPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               {/* Card de Dirección */}
-              <motion.div
+              {/* <motion.div
                 variants={item}
                 className="border border-primary/20 shadow-lg rounded-lg p-6 bg-background"
               >
@@ -390,10 +376,10 @@ export default function ContactPage() {
                   <li>{t("directions.steps.step4")}</li>
                   <li>{t("directions.steps.step5")}</li>
                 </ol>
-              </motion.div>
+              </motion.div> */}
             
               {/* Card de Estacionamiento */}
-              <motion.div
+              {/* <motion.div
                 variants={item}
                 className="border border-primary/20 shadow-lg rounded-lg p-6 bg-background"
               >
@@ -408,7 +394,7 @@ export default function ContactPage() {
                   <li>{t("parking.options.option3")}</li>
                 </ul>
                 <p className="text-muted-foreground mt-4">{t("parking.handicap")}</p>
-              </motion.div>
+              </motion.div> */}
             </div>
           </motion.div>
         </div>

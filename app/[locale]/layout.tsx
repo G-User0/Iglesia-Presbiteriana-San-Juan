@@ -27,11 +27,11 @@ export async function generateMetadata(props: { params: Promise<{ locale: string
     description: t("description"),
     keywords: t("keywords"),
     authors: [{ name: t("author") }],
-    metadataBase: new URL("https://yourchurchwebsite.com"),
+    metadataBase: new URL("https://iglesiapsj.vercel.app"),
     openGraph: {
       type: "website",
       locale,
-      url: "https://yourchurchwebsite.com",
+      url: "https://iglesiapsj.vercel.app",
       title: t("siteName"),
       description: t("description"),
       siteName: t("siteName"),

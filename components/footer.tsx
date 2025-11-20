@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 import Link from "next/link"
-import { Facebook, Instagram, Twitter, Youtube, Mail, Phone, MapPin } from "lucide-react"
+import { Facebook, Youtube, Mail, Phone, MapPin } from "lucide-react"
 import { useTranslations } from "next-intl"
 
 export function Footer() {
@@ -41,14 +41,6 @@ export function Footer() {
               <Link href="#" className="text-foreground hover:text-blue-500 transition-colors">
                 <Facebook className="h-5 w-5" />
                 <span className="sr-only">Facebook</span>
-              </Link>
-              <Link href="#" className="text-foreground hover:text-pink-500 transition-colors">
-                <Instagram className="h-5 w-5" />
-                <span className="sr-only">Instagram</span>
-              </Link>
-              <Link href="#" className="text-foreground hover:text-blue-400 transition-colors">
-                <Twitter className="h-5 w-5" />
-                <span className="sr-only">Twitter</span>
               </Link>
               <Link href="#" className="text-foreground hover:text-red-600 transition-colors">
                 <Youtube className="h-5 w-5" />
